@@ -1,0 +1,2606 @@
+[
+  {
+    "id": 2190,
+    "label": "Serviços de Acomodação",
+    "hierarchy": "Serviços de Acomodação",
+    "description": "Esse setor inclui entidades que fornecem hospedagem de curto prazo em instalações, como hotéis, motéis e pousadas. Além da hospedagem, eles podem oferecer uma série de outros serviços aos seus hóspedes."
+  },
+  {
+    "id": 34,
+    "label": "Serviços de Alimentos e Bebidas",
+    "hierarchy": "Serviços de Acomodação > Serviços de Alimentos e Bebidas",
+    "description": "Esse setor inclui entidades que preparam refeições, lanches e bebidas para o pedido do cliente, para o consumo imediato local e fora do local."
+  },
+  {
+    "id": 2217,
+    "label": "Bares, tabernas e boates",
+    "hierarchy": "Serviços de Acomodação > Serviços de Alimentos e Bebidas > Bares, tabernas e boates",
+    "description": "Essa indústria inclui entidades conhecidas como bares, tabernas, boates ou locais de bebida preparando e servindo bebidas alcoólicas para consumo imediato."
+  },
+  {
+    "id": 2212,
+    "label": "Fornecedores",
+    "hierarchy": "Serviços de Acomodação > Serviços de Alimentos e Bebidas > Fornecedores",
+    "description": "Esse setor inclui entidades que fornecem serviços de alimentação baseados em eventos e geralmente têm equipamentos e veículos para transportar refeições e lanches para eventos e/ou preparar alimentos no local."
+  },
+  {
+    "id": 2214,
+    "label": "Serviços de Alimentação Móvel",
+    "hierarchy": "Serviços de Acomodação > Serviços de Alimentos e Bebidas > Serviços de Alimentação Móvel",
+    "description": "Esse setor inclui entidades que preparam e servem refeições e lanches para o consumo imediato de veículos motorizados ou carrinhos não motores. A entidade é o local central a partir do qual a rota do fornecedor é atendida, e não cada veículo ou carrinho. Incluem-se neste setor entidades que prestam serviços de alimentação a partir de veículos, como carrinhos de cachorro-quente e caminhões de sorvete."
+  },
+  {
+    "id": 32,
+    "label": "Restaurantes",
+    "hierarchy": "Serviços de Acomodação > Serviços de Alimentos e Bebidas > Restaurantes",
+    "description": "Esse setor inclui entidades que fornecem alimentos a clientes que são servidos enquanto estão sentados e pagam depois de comer, ou aqueles que selecionam itens (por exemplo, em um balcão, em uma linha de buffet) e pagam antes de comer. Estão incluídas as entidades que preparam e/ou servem snacks especiais e/ou bebidas não alcoólicas para consumo nas instalações ou nas suas proximidades."
+  },
+  {
+    "id": 31,
+    "label": "Hospitalidade",
+    "hierarchy": "Serviços de Acomodação > Hospitalidade",
+    "description": "Esse setor inclui entidades que fornecem aos clientes hospedagem e/ou refeições preparadas, lanches e bebidas para consumo imediato."
+  },
+  {
+    "id": 2197,
+    "label": "Pousadas, Albergues, Casas de Família",
+    "hierarchy": "Serviços de Acomodação > Hospitalidade > Pousadas, Albergues, Casas de Família",
+    "description": "Essa indústria inclui entidades que fornecem hospedagem e alimentos de curto prazo (exceto hotéis, motéis e hotéis de cassino)."
+  },
+  {
+    "id": 2194,
+    "label": "Hotéis e Motéis",
+    "hierarchy": "Serviços de Acomodação > Hospitalidade > Hotéis e Motéis",
+    "description": "Esse setor inclui entidades que fornecem hospedagem de curto prazo especificamente em instalações conhecidas como hotéis, hotéis de estrada, hotéis de resort e motéis."
+  },
+  {
+    "id": 1912,
+    "label": "Serviços Administrativos e de Suporte",
+    "hierarchy": "Serviços Administrativos e de Suporte",
+    "description": "Este setor inclui entidades que realizam atividades de suporte de rotina para as operações diárias de outras organizações, incluindo administração de escritórios, contratação e colocação de pessoal, preparação de documentos e serviços administrativos semelhantes, solicitação, coleta, segurança e vigilância, limpeza e descarte de materiais."
+  },
+  {
+    "id": 1938,
+    "label": "Agências de Cobrança",
+    "hierarchy": "Serviços Administrativos e de Suporte > Agências de Cobrança",
+    "description": "Esse setor inclui entidades que coletam pagamentos por reivindicações e remeter pagamentos coletados para seus clientes."
+  },
+  {
+    "id": 110,
+    "label": "Serviços de Eventos",
+    "hierarchy": "Serviços Administrativos e de Suporte > Serviços de Eventos",
+    "description": "Esse setor inclui entidades que organizam, promovem e/ou gerenciam eventos, como negócios e feiras, convenções, conferências e reuniões, realizadas em instalações que gerenciam e operam ou em instalações que são gerenciadas e operadas por outros."
+  },
+  {
+    "id": 122,
+    "label": "Serviços de Instalações",
+    "hierarchy": "Serviços Administrativos e de Suporte > Serviços de Instalações",
+    "description": "Esse setor inclui entidades que fornecem à equipe operacional que realiza uma combinação de serviços nas instalações de um cliente (excluindo instalações de processamento de computador e/ou dados, que estão em indústrias separadas), como zeladoria, manutenção, descarte de lixo, guarda e segurança, roteamento de correio, recepção e lavanderia. Incluem-se as entidades que prestam serviços prisionais privados ou exploram estabelecimentos prisionais com base em contratos ou honorários."
+  },
+  {
+    "id": 1965,
+    "label": "Serviços de Zeladoria",
+    "hierarchy": "Serviços Administrativos e de Suporte > Serviços de Instalações > Serviços de Zeladoria",
+    "description": "Esse setor inclui entidades que limpam interiores, interiores de equipamentos de transporte (por exemplo, aeronaves, vagões, navios) e/ou janelas."
+  },
+  {
+    "id": 2934,
+    "label": "Serviços de Paisagismo",
+    "hierarchy": "Serviços Administrativos e de Suporte > Serviços de Instalações > Serviços de Paisagismo",
+    "description": "Esta indústria inclui entidades que 1. Fornecem serviços de cuidados e manutenção de paisagem e/ou instalação de árvores, arbustos, plantas, gramados ou jardins 2. Forneça esses serviços junto com o design de planos de paisagem e/ou a instalação de passarelas, paredes de retenção, terraços, cercas, lagos e estruturas semelhantes."
+  },
+  {
+    "id": 101,
+    "label": "Captação de Recursos",
+    "hierarchy": "Serviços Administrativos e de Suporte > Captação de Recursos",
+    "description": "Esse setor inclui entidades que fornecem serviços de suporte comercial, em particular os serviços de organização de captação de recursos em uma base de contrato ou taxa."
+  },
+  {
+    "id": 1916,
+    "label": "Administração de Escritórios",
+    "hierarchy": "Serviços Administrativos e de Suporte > Administração de Escritórios",
+    "description": "Este setor inclui entidades que fornecem uma variedade de serviços administrativos do escritório diário, como planejamento financeiro; faturação e manutenção de registos; pessoal; e distribuição física e logística, para outros, com base em contratos ou honorários."
+  },
+  {
+    "id": 121,
+    "label": "Segurança e Investigações",
+    "hierarchy": "Serviços Administrativos e de Suporte > Segurança e Investigações",
+    "description": "Este setor inclui entidades que: 1. Forneça serviços de investigação, guarda e carros blindados2. Vender sistemas de segurança, tais como alarmes contra roubo e incêndio e dispositivos de bloqueio, juntamente com serviços de instalação, reparação ou monitoramento3. Prestar serviços de monitoramento à distância de sistemas de alarme eletrónico de segurança."
+  },
+  {
+    "id": 1956,
+    "label": "Guarda e Serviços de Patrulha",
+    "hierarchy": "Serviços Administrativos e de Suporte > Segurança e Investigações > Guarda e Serviços de Patrulha",
+    "description": "Esse setor inclui entidades que fornecem funcionários para serviços de guarda e patrulha, como guarda-costas, cães de guarda e serviços de segurança de estacionamento."
+  },
+  {
+    "id": 1958,
+    "label": "Serviços de Sistemas de Segurança",
+    "hierarchy": "Serviços Administrativos e de Suporte > Segurança e Investigações > Serviços de Sistemas de Segurança",
+    "description": "Esse setor inclui entidades que vendem hardware de sistemas de segurança, como alarmes de incêndio, alarmes de invasão e dispositivos de travamento, além de instalação, reparo ou monitoramento remoto de sistemas de alarme de segurança eletrônica."
+  },
+  {
+    "id": 104,
+    "label": "Recrutamento e Seleção de Pessoal",
+    "hierarchy": "Serviços Administrativos e de Suporte > Recrutamento e Seleção de Pessoal",
+    "description": "Este setor inclui entidades que: 1. Liste as vagas de emprego e coloque ou consulte os candidatos para o emprego 2. Forneça serviços de busca, recrutamento e colocação de executivos 3. Forneça trabalhadores aos negócios dos clientes por períodos limitados de tempo; ou 4.Prestar serviços cotidianos de recursos humanos e de gestão de recursos humanos para empresas e famílias. As empresas de recursos humanos terceirizadas estão incluídas neste setor. Este setor não inclui as entidades que prestam consultoria sobre políticas e procedimentos de recursos humanos."
+  },
+  {
+    "id": 1923,
+    "label": "Serviços de Pesquisa Executiva",
+    "hierarchy": "Serviços Administrativos e de Suporte > Recrutamento e Seleção de Pessoal > Serviços de Pesquisa Executiva",
+    "description": "Esse setor inclui entidades que fornecem serviços de busca, recrutamento e colocação de executivos para clientes com requisitos específicos de posição executiva e de gerenciamento sênior, incluindo o desenvolvimento de uma estratégia de pesquisa e especificação de posição com base na cultura e nas necessidades do cliente; pesquisar, identificar, selecionar e entrevistar candidatos; verificar as qualificações dos candidatos; e auxiliar nas negociações da oferta final e assimilação do candidato selecionado."
+  },
+  {
+    "id": 1925,
+    "label": "Serviços de Ajuda Temporária",
+    "hierarchy": "Serviços Administrativos e de Suporte > Recrutamento e Seleção de Pessoal > Serviços de Ajuda Temporária",
+    "description": "Esse setor inclui entidades que fornecem trabalhadores aos negócios dos clientes por períodos limitados de tempo para complementar a força de trabalho do cliente."
+  },
+  {
+    "id": 1931,
+    "label": "Centros de Atendimento Telefônico",
+    "hierarchy": "Serviços Administrativos e de Suporte > Centros de Atendimento Telefônico",
+    "description": "Esse setor inclui entidades que 1. Atendam chamadas telefônicas e mensagens de retransmissão à clientes ou 2. Forneça serviços de telemarketing em contrato ou taxa para outros, como promover produtos ou serviços de clientes por telefone; receber pedidos de clientes por telefone; e solicitar contribuições ou fornecer informações para clientes por telefone."
+  },
+  {
+    "id": 108,
+    "label": "Tradução e Localização",
+    "hierarchy": "Serviços Administrativos e de Suporte > Tradução e Localização",
+    "description": "Este setor inclui entidades que traduzem material escrito e interpretam o discurso de um idioma para outro."
+  },
+  {
+    "id": 30,
+    "label": "Organização de Viagens",
+    "hierarchy": "Serviços Administrativos e de Suporte > Organização de Viagens",
+    "description": "Este setor inclui entidades que prestam serviços de agências de viagens, organizam ou montam passeios ou fornecem outros serviços de acordo e reserva."
+  },
+  {
+    "id": 103,
+    "label": "Redação e Edição",
+    "hierarchy": "Serviços Administrativos e de Suporte > Redação e Edição",
+    "description": "Este setor inclui entidades que criam documentos ou currículos, editam ou revisam documentos, transcrevem documentos e/ou fornecem outros serviços de redação e edição."
+  },
+  {
+    "id": 48,
+    "label": "Construção",
+    "hierarchy": "Construção",
+    "description": "Esse setor inclui entidades que constroem edifícios ou projetos de engenheiros (por exemplo, rodovias e sistemas de serviços públicos) e realizam atividades específicas (por exemplo, pintura e encanamento)."
+  },
+  {
+    "id": 406,
+    "label": "Construção de Edifícios",
+    "hierarchy": "Construção > Construção de Edifícios",
+    "description": "Essa indústria inclui entidades que construem edifícios, incluindo edifícios temporários e edifícios pré-CUT, com painéis e pré-fabricados montados no local."
+  },
+  {
+    "id": 413,
+    "label": "Construção de Edifícios Não-Residencial",
+    "hierarchy": "Construção > Construção de Edifícios > Construção de Edifícios Não-Residencial",
+    "description": "Este setor inclui entidades que constroem edifícios não residenciais (incluindo novos trabalhos, adições, alterações, manutenção e reparos)."
+  },
+  {
+    "id": 408,
+    "label": "Construção de Edifícios Residencial",
+    "hierarchy": "Construção > Construção de Edifícios > Construção de Edifícios Residencial",
+    "description": "Essa indústria inclui entidades que construem ou remodelam e reformam edifícios residenciais unifamiliares e multifamiliares."
+  },
+  {
+    "id": 51,
+    "label": "Engenharia Civil",
+    "hierarchy": "Construção > Engenharia Civil",
+    "description": "Esse setor inclui entidades que conduzem projetos de engenharia, como a construção de rodovias, barragens e sistemas de serviços públicos."
+  },
+  {
+    "id": 431,
+    "label": "Construção de Rodovias, Ruas e Pontes",
+    "hierarchy": "Construção > Engenharia Civil > Construção de Rodovias, Ruas e Pontes",
+    "description": "Essa indústria inclui entidades que construem rodovias (incluindo elevadas), ruas, estradas, passarelas, calçadas públicas ou pontes."
+  },
+  {
+    "id": 428,
+    "label": "Subdivisão de Terras",
+    "hierarchy": "Construção > Engenharia Civil > Subdivisão de Terras",
+    "description": "Esse setor inclui entidades que atendem à propriedade e subdivide em lotes para venda subsequente aos construtores."
+  },
+  {
+    "id": 419,
+    "label": "Construção de Sistemas Utilitários",
+    "hierarchy": "Construção > Engenharia Civil > Construção de Sistemas Utilitários",
+    "description": "Essa indústria inclui entidades que construem linhas de distribuição e edifícios e estruturas relacionadas para serviços públicos (como Água, Resíduos, petróleo, gás, energia e comunicação)."
+  },
+  {
+    "id": 435,
+    "label": "Empreiteiros de Comércio Especializados",
+    "hierarchy": "Construção > Empreiteiros de Comércio Especializados",
+    "description": "Esse setor inclui entidades que realizam atividades específicas (por exemplo, derramamento de concreto, preparação do local, encanamento, pintura e trabalho elétrico) envolvidos na construção de edifícios ou na construção de obras semelhantes, mas não são responsáveis por todo o projeto."
+  },
+  {
+    "id": 453,
+    "label": "Empreiteiros de Equipamentos de Construção",
+    "hierarchy": "Construção > Empreiteiros de Comércio Especializados > Empreiteiros de Equipamentos de Construção",
+    "description": "Este setor inclui entidades que instalam ou serviços de serviço que fazem parte de um sistema mecânico de construção (por exemplo, eletricidade, água, aquecimento e resfriamento)."
+  },
+  {
+    "id": 460,
+    "label": "Empreiteiros de Acabamento de Construção",
+    "hierarchy": "Construção > Empreiteiros de Comércio Especializados > Empreiteiros de Acabamento de Construção",
+    "description": "Este setor inclui entidades que fornecem negociações especializadas necessárias para concluir os edifícios."
+  },
+  {
+    "id": 436,
+    "label": "Empreiteiros de Estrutura e Exterior de Construção",
+    "hierarchy": "Construção > Empreiteiros de Comércio Especializados > Empreiteiros de Estrutura e Exterior de Construção",
+    "description": "Esse setor inclui entidades que fornecem negociações especializadas necessárias para concluir a estrutura básica (como fundamento, quadro e shell) de edifícios."
+  },
+  {
+    "id": 91,
+    "label": "Serviços ao Consumidor",
+    "hierarchy": "Serviços ao Consumidor",
+    "description": "Essa indústria inclui entidades que reparam carros, máquinas, eletrônicos, móveis, calçados e artigos de couro e aqueles que fornecem serviços pessoais como lavanderia, cuidados com animais de estimação e serviços domésticos."
+  },
+  {
+    "id": 90,
+    "label": "Organizações Cívicas e Sociais",
+    "hierarchy": "Serviços ao Consumidor > Organizações Cívicas e Sociais",
+    "description": "Esta indústria inclui entidades que organizam atividades religiosas;"
+  },
+  {
+    "id": 1909,
+    "label": "Associações da Indústria",
+    "hierarchy": "Serviços ao Consumidor > Organizações Cívicas e Sociais > Associações da Indústria",
+    "description": "Esse setor inclui entidades que promovem os interesses comerciais de suas empresas membros e podem realizar pesquisas sobre novos produtos e serviços;"
+  },
+  {
+    "id": 107,
+    "label": "Organizações Políticas",
+    "hierarchy": "Serviços ao Consumidor > Organizações Cívicas e Sociais > Organizações Políticas",
+    "description": "Esse setor inclui entidades que promovem os interesses de partidos nacionais ou locais ou candidatos."
+  },
+  {
+    "id": 1911,
+    "label": "Organizações Profissionais",
+    "hierarchy": "Serviços ao Consumidor > Organizações Cívicas e Sociais > Organizações Profissionais",
+    "description": "Esse setor inclui entidades que promovem os interesses profissionais de seus membros individuais e de sua profissão como um todo;"
+  },
+  {
+    "id": 2318,
+    "label": "Serviços Domésticos",
+    "hierarchy": "Serviços ao Consumidor > Serviços Domésticos",
+    "description": "Esse setor inclui famílias particulares que empregam trabalhadores dentro ou fora das instalações em atividades preocupadas principalmente com a operação da família, incluindo cozinheiros, empregadas domésticas, mordomos e trabalhadores externos, como jardineiros, cuidadores e outros trabalhadores de manutenção."
+  },
+  {
+    "id": 100,
+    "label": "Organizações Sem Fins Lucrativos",
+    "hierarchy": "Serviços ao Consumidor > Organizações Sem Fins Lucrativos",
+    "description": "Esse setor inclui entidades que fornecem benefícios públicos sem fins lucrativos, incluindo aqueles que organizam e promovem atividades religiosas, apóiam causas sociais e políticas e fornecem programas e instalações para alívio de emergência, educação e doações de bens e serviços."
+  },
+  {
+    "id": 2258,
+    "label": "Serviços Pessoais e de Lavanderia",
+    "hierarchy": "Serviços ao Consumidor > Serviços Pessoais e de Lavanderia",
+    "description": "Esse setor inclui entidades que fornecem serviços pessoais e de lavanderia a indivíduos, famílias e empresas, incluindo serviços de cuidados pessoais;"
+  },
+  {
+    "id": 2272,
+    "label": "Serviços de Lavanderia e Secagem",
+    "hierarchy": "Serviços ao Consumidor > Serviços Pessoais e de Lavanderia > Serviços de Lavanderia e Secagem",
+    "description": "Esta indústria inclui entidades que operam lavanderias e tenrans de autoatendimento operados por moedas ou similares;"
+  },
+  {
+    "id": 2259,
+    "label": "Serviços de Cuidados Pessoais",
+    "hierarchy": "Serviços ao Consumidor > Serviços Pessoais e de Lavanderia > Serviços de Cuidados Pessoais",
+    "description": "Esse setor inclui entidades, como barbeiro e lojas de beleza, que fornecem serviços de assistência à aparência a consumidores individuais."
+  },
+  {
+    "id": 2282,
+    "label": "Serviços para Animais de Estimação",
+    "hierarchy": "Serviços ao Consumidor > Serviços Pessoais e de Lavanderia > Serviços para Animais de Estimação",
+    "description": "Esse setor inclui entidades que fornecem serviços de cuidados com animais de estimação (exceto veterinário, que está em um setor separado), como embarque, limpeza, sessão e treinamento de animais de estimação."
+  },
+  {
+    "id": 131,
+    "label": "Serviços de Captação de Recursos Filantrópicos",
+    "hierarchy": "Serviços ao Consumidor > Serviços de Captação de Recursos Filantrópicos",
+    "description": "Essa indústria inclui fundações de concessão, fundos de caridade e entidades que arrecadam fundos para uma ampla gama de atividades de bem -estar social, como atividades de saúde, educacional, científico e cultural."
+  },
+  {
+    "id": 89,
+    "label": "Instituições Religiosas",
+    "hierarchy": "Serviços ao Consumidor > Instituições Religiosas",
+    "description": "Essa indústria inclui organizações religiosas, como igrejas, templos religiosos e mosteiros e/ou entidades que organizam religião ou promovem atividades religiosas."
+  },
+  {
+    "id": 2225,
+    "label": "Reparo e Manutenção",
+    "hierarchy": "Serviços ao Consumidor > Reparo e Manutenção",
+    "description": "Esse setor inclui entidades que restauram máquinas, equipamentos e outros produtos para o pedido de funcionamento e fornecem manutenção geral ou de rotina (como manutenção) nesses produtos para garantir que eles funcionem com eficiência e para evitar quebras e reparos desnecessários."
+  },
+  {
+    "id": 2247,
+    "label": "Manutenção de Maquinário Comerciais e Industriais",
+    "hierarchy": "Serviços ao Consumidor > Reparo e Manutenção > Manutenção de Maquinário Comerciais e Industriais",
+    "description": "Essa indústria inclui entidades que reparam e mantêm máquinas e equipamentos comerciais e industriais, incluindo o afilando/instalando lâminas e serras de máquinas comerciais e industriais ou fornecem serviços de reparo de soldagem (por exemplo, automotivo, geral);"
+  },
+  {
+    "id": 2240,
+    "label": "Manutenção de Equipamentos Eletrônicos e de Precisão",
+    "hierarchy": "Serviços ao Consumidor > Reparo e Manutenção > Manutenção de Equipamentos Eletrônicos e de Precisão",
+    "description": "Este setor inclui entidades que reparam e mantêm um ou mais dos seguintes: 1. Equipamento eletrônico do consumidor;"
+  },
+  {
+    "id": 2255,
+    "label": "Reparação de Calçados e Artigos de Couro",
+    "hierarchy": "Serviços ao Consumidor > Reparo e Manutenção > Reparação de Calçados e Artigos de Couro",
+    "description": "Essa indústria inclui entidades que reparam calçados e/ou outros artigos de couro ou couro sem varejo de calçados novos e couro ou artigos de couro, como bolsas e pastas."
+  },
+  {
+    "id": 2253,
+    "label": "Reestofamento e Reparo de Móveis",
+    "hierarchy": "Serviços ao Consumidor > Reparo e Manutenção > Reestofamento e Reparo de Móveis",
+    "description": "Este setor inclui entidades que oferecem um ou mais dos seguintes serviços: 1. REUPHOLSTERING FORNITTION;"
+  },
+  {
+    "id": 2226,
+    "label": "Reparo e Manutenção de Veículos",
+    "hierarchy": "Serviços ao Consumidor > Reparo e Manutenção > Reparo e Manutenção de Veículos",
+    "description": "Esse setor inclui entidades que fornecem serviços de reparo e manutenção para veículos automotivos, como carros de passageiros, caminhões e vans e todos os reboques."
+  },
+  {
+    "id": 1999,
+    "label": "Educação",
+    "hierarchy": "Educação",
+    "description": "Esse setor inclui entidades que fornecem instruções ou treinamento em uma ampla variedade de assuntos de entidades especializadas, como escolas, faculdades, universidades e centros de treinamento."
+  },
+  {
+    "id": 132,
+    "label": "Provedores de E-learning",
+    "hierarchy": "Educação > Provedores de E-learning",
+    "description": "Esse setor inclui entidades que oferecem instruções usando tecnologias eletrônicas, como através de treinamentos baseados na Web, plataformas de aprendizado on-line e palestras ao vivo ou gravadas."
+  },
+  {
+    "id": 68,
+    "label": "Ensino Superior",
+    "hierarchy": "Educação > Ensino Superior",
+    "description": "Essa indústria inclui entidades que fornecem cursos acadêmicos e concedidos diplomas em níveis de bacharelado ou pós -graduação, onde o requisito de admissão é pelo menos um diploma do ensino médio ou um treinamento acadêmico geral equivalente."
+  },
+  {
+    "id": 67,
+    "label": "Educação Primária e Secundária",
+    "hierarchy": "Educação > Educação Primária e Secundária",
+    "description": "Esse setor inclui entidades que fornecem cursos acadêmicos e cursos associados para fornecer educação preparatória básica, normalmente o jardim de infância até a 12ª série."
+  },
+  {
+    "id": 105,
+    "label": "Treinamento Profissional e Coaching",
+    "hierarchy": "Educação > Treinamento Profissional e Coaching",
+    "description": "Esse setor inclui entidades que oferecem cursos de treinamento em habilidades de escritório, como usar aplicativos de software."
+  },
+  {
+    "id": 2018,
+    "label": "Treinamento Técnico e Vocacional",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional",
+    "description": "Esse setor inclui entidades que oferecem treinamento vocacional e técnico em uma variedade de assuntos e negociações técnicas, incluindo escolas de vôo e aprendizagem, mas excluindo as habilidades do escritório, que está em um setor separado."
+  },
+  {
+    "id": 2019,
+    "label": "Escolas de Cosmetologia e Barbearia",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional > Escolas de Cosmetologia e Barbearia",
+    "description": "Essa indústria inclui entidades que oferecem treinamento em barbearia, estilo de cabelo ou artes cosméticas, como maquiagem ou cuidados com a pele."
+  },
+  {
+    "id": 2025,
+    "label": "Escolas de Belas Artes",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional > Escolas de Belas Artes",
+    "description": "Essa indústria inclui entidades que oferecem instruções nas artes, incluindo dança, arte, drama e música."
+  },
+  {
+    "id": 2020,
+    "label": "Treinamento de Voo",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional > Treinamento de Voo",
+    "description": "Este setor inclui entidades que oferecem treinamento em aviação e voo."
+  },
+  {
+    "id": 2029,
+    "label": "Escolas de Idiomas",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional > Escolas de Idiomas",
+    "description": "Este setor inclui entidades que oferecem instruções de língua estrangeira (incluindo linguagem de sinais)."
+  },
+  {
+    "id": 2012,
+    "label": "Escolas de Secretariado",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional > Escolas de Secretariado",
+    "description": "Essa indústria se concentra no treinamento para a equipe de secretariado e administrativo e inclui entidades que oferecem cursos em habilidades de secretariado e outras habilidades básicas do escritório."
+  },
+  {
+    "id": 2027,
+    "label": "Instrução de Esportes e Recreação",
+    "hierarchy": "Educação > Treinamento Técnico e Vocacional > Instrução de Esportes e Recreação",
+    "description": "Esse setor inclui entidades, como acampamentos e escolas, que oferecem instruções em atividades atléticas a grupos de indivíduos."
+  },
+  {
+    "id": 28,
+    "label": "Provedores de Entretenimento",
+    "hierarchy": "Provedores de Entretenimento",
+    "description": "Esta indústria inclui entidades que: 1. Produza, promova ou participe de apresentações ao vivo, eventos ou exposições destinadas ao público;"
+  },
+  {
+    "id": 38,
+    "label": "Artistas e Escritores",
+    "hierarchy": "Provedores de Entretenimento > Artistas e Escritores",
+    "description": "Essa indústria inclui indivíduos independentes (como freelancers) que se apresentam em produções artísticas, criam obras artísticas e culturais ou fornecem experiência técnica necessária para essas produções."
+  },
+  {
+    "id": 37,
+    "label": "Museus, Locais Históricos e Zoológicos",
+    "hierarchy": "Provedores de Entretenimento > Museus, Locais Históricos e Zoológicos",
+    "description": "Essa indústria inclui entidades que preservam e exibem objetos, locais e maravilhas naturais de valor histórico, cultural e/ou educacional."
+  },
+  {
+    "id": 2161,
+    "label": "Locais Históricos",
+    "hierarchy": "Provedores de Entretenimento > Museus, Locais Históricos e Zoológicos > Locais Históricos",
+    "description": "Essa indústria inclui entidades que preservam e exibem locais, edifícios, fortes ou comunidades que descrevem eventos ou pessoas de interesse histórico particular, como sítios arqueológicos, campos de batalha, navios históricos e aldeias pioneiras."
+  },
+  {
+    "id": 2159,
+    "label": "Museus",
+    "hierarchy": "Provedores de Entretenimento > Museus, Locais Históricos e Zoológicos > Museus",
+    "description": "Esta indústria inclui entidades que preservam e exibem objetos de valor histórico, cultural e/ou educacional."
+  },
+  {
+    "id": 2163,
+    "label": "Zoológicos e Jardins Botânicos",
+    "hierarchy": "Provedores de Entretenimento > Museus, Locais Históricos e Zoológicos > Zoológicos e Jardins Botânicos",
+    "description": "Esta indústria inclui entidades que preservam e exibem exibições vidas em plantas e animais."
+  },
+  {
+    "id": 115,
+    "label": "Músicos",
+    "hierarchy": "Provedores de Entretenimento > Músicos",
+    "description": "Essa indústria inclui 1. Grupos que produzem entretenimento musical ao vivo (exceto produções teatrais ou ópera, que estão em indústrias separadas) e 2. Artistas independentes (como freelancers) que fornecem entretenimento musical ao vivo."
+  },
+  {
+    "id": 2130,
+    "label": "Artes Cênicas e Esportes para Espectadores",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores",
+    "description": "Essa indústria inclui entidades que produzem ou organizam e promovem apresentações ao vivo envolvendo as performances de atores e atrizes, cantores, dançarinos, grupos musicais e artistas, atletas e outros artistas, incluindo artistas independentes (como freelancer) e as entidades que gerenciam seus"
+  },
+  {
+    "id": 2139,
+    "label": "Circos e Shows de Mágica",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Circos e Shows de Mágica",
+    "description": "Essa indústria inclui empresas ou grupos (exceto companhias de teatro, empresas de dança e grupos musicais e artistas, que estão em indústrias separadas) produzindo apresentações teatrais ao vivo."
+  },
+  {
+    "id": 2135,
+    "label": "Companhias de Dança",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Companhias de Dança",
+    "description": "Essa indústria inclui empresas, grupos ou teatros que produzem todos os tipos de dança teatral ao vivo (por exemplo, balé, dança contemporânea, dança folclórica)."
+  },
+  {
+    "id": 39,
+    "label": "Artes Cênicas",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Artes Cênicas",
+    "description": "Essa indústria inclui entidades que produzem apresentações ao vivo com performances de atores e atrizes, cantores, dançarinos, músicos e grupos musicais e outros artistas cênicos."
+  },
+  {
+    "id": 33,
+    "label": "Esportes para Espectadores",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Esportes para Espectadores",
+    "description": "Esta indústria inclui: 1. equipes esportivas, clubes ou atletas independentes que participam de eventos esportivos ao vivo antes de um público pagador;"
+  },
+  {
+    "id": 2143,
+    "label": "Pistas de corrida",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Esportes para Espectadores > Pistas de corrida",
+    "description": "Essa indústria inclui entidades que operam pistas de corrida e também podem apresentar e/ou promover os eventos, como corridas de automóveis, cães e cavalos, realizadas nessas instalações."
+  },
+  {
+    "id": 2142,
+    "label": "Equipes Esportivas e Clubes",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Esportes para Espectadores > Equipes Esportivas e Clubes",
+    "description": "Essa indústria inclui equipes esportivas ou clubes profissionais ou semiprofissionais que participam de eventos esportivos ao vivo, como beisebol, basquete, futebol, hóquei, futebol e Jai Alai, antes de um público remunerado."
+  },
+  {
+    "id": 2133,
+    "label": "Companhias de Teatro",
+    "hierarchy": "Provedores de Entretenimento > Artes Cênicas e Esportes para Espectadores > Companhias de Teatro",
+    "description": "Esta indústria inclui empresas, grupos ou teatros que oferecem as seguintes apresentações teatrais ao vivo: musicais;"
+  },
+  {
+    "id": 40,
+    "label": "Instalações Recreativas",
+    "hierarchy": "Provedores de Entretenimento > Instalações Recreativas",
+    "description": "Essa indústria inclui entidades que 1. operam instalações onde os clientes podem se envolver em atividades de esportes, recreação, diversão ou jogo e/ou 2. Fornecer outras diversões e recreação, como dispositivos de diversão em locais de negócios operados por outros;"
+  },
+  {
+    "id": 2167,
+    "label": "Parques de Diversão e Fliperamas",
+    "hierarchy": "Provedores de Entretenimento > Instalações Recreativas > Parques de Diversão e Fliperamas",
+    "description": "Essa indústria inclui entidades que operam parques de diversões e arcadas de diversão e salões."
+  },
+  {
+    "id": 29,
+    "label": "Instalações de Jogos de Azar e Cassinos",
+    "hierarchy": "Provedores de Entretenimento > Instalações Recreativas > Instalações de Jogos de Azar e Cassinos",
+    "description": "Essa indústria inclui entidades que operam instalações de jogo, como cassinos, salões de bingo e terminais de videogames, ou que provisionam serviços de jogo, como loterias e apostas fora da pista."
+  },
+  {
+    "id": 2179,
+    "label": "Campos de Golfe e Clubes de Campo",
+    "hierarchy": "Provedores de Entretenimento > Instalações Recreativas > Campos de Golfe e Clubes de Campo",
+    "description": "Essa indústria inclui entidades que 1. operam campos de golfe (exceto miniatura) e 2. Opere campos de golfe, juntamente com instalações para refeições e outras Instalações Recreativas conhecidas como clubes de campo."
+  },
+  {
+    "id": 2181,
+    "label": "Instalações de Esqui",
+    "hierarchy": "Provedores de Entretenimento > Instalações Recreativas > Instalações de Esqui",
+    "description": "Esse setor inclui entidades que operam em declive, cross country/região ou áreas de esqui relacionadas e/ou operam equipamentos relacionados, como elevadores de esqui e tows."
+  },
+  {
+    "id": 124,
+    "label": "Serviços de Bem-estar e Fitness",
+    "hierarchy": "Provedores de Entretenimento > Instalações Recreativas > Serviços de Bem-estar e Fitness",
+    "description": "Esta indústria inclui entidades que: 1. Opere instalações de condicionamento físico e recreativo para esportes, como nadar, patinar ou esportes de raquete;"
+  },
+  {
+    "id": 201,
+    "label": "Agricultura, Pecuária, Silvicultura",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura",
+    "description": "Essa indústria inclui entidades que cultivam, criam animais, colheita de madeira e colheita de peixes e outros animais de uma fazenda, rancho ou seus habitats naturais."
+  },
+  {
+    "id": 63,
+    "label": "Agricultura",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura > Agricultura",
+    "description": "Essa indústria inclui entidades que cultivam culturas principalmente para alimentos e fibras, como fazendas, pomares, bosques, estufas e viveiros."
+  },
+  {
+    "id": 150,
+    "label": "Horticultura",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura > Agricultura > Horticultura",
+    "description": "Essa indústria inclui entidades que cultivam plantas de jardim, como frutas, vegetais, flores e ornamentais."
+  },
+  {
+    "id": 298,
+    "label": "Silvicultura e Madeireiras",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura > Silvicultura e Madeireiras",
+    "description": "Essa indústria inclui entidades que crescem e colhem madeira em um longo ciclo de produção (como 10 anos ou mais)."
+  },
+  {
+    "id": 256,
+    "label": "Pecuária e Pesca",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura > Pecuária e Pesca",
+    "description": "Essa indústria inclui entidades que criam ou engorda animais e/ou criam plantas aquáticas e animais aquáticos em ambientes aquáticos controlados ou selecionados."
+  },
+  {
+    "id": 66,
+    "label": "Pesca",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura > Pecuária e Pesca > Pesca",
+    "description": "Essa indústria inclui entidades que capturam finfish, mariscos ou produtos marinhos diversos de um habitat natural, como peixes azuis, enguias, salmão, atum, amêijoas, caranguejos, lagostas, mexilhões, ostras, camarões, sapos, ouriços do mar e tartarugas."
+  },
+  {
+    "id": 64,
+    "label": "Pecuária",
+    "hierarchy": "Agricultura, Pecuária, Silvicultura > Pecuária e Pesca > Pecuária",
+    "description": "Esta indústria inclui entidades que criam gado, gado leiteiro ou alimentação de gado para engorda."
+  },
+  {
+    "id": 43,
+    "label": "Serviços Financeiros",
+    "hierarchy": "Serviços Financeiros",
+    "description": "Esse setor inclui entidades que fazem transações financeiras (criação, liquidação ou mudança na propriedade de ativos financeiros) e/ou que facilitem as transações financeiras."
+  },
+  {
+    "id": 129,
+    "label": "Mercado de Capitais",
+    "hierarchy": "Serviços Financeiros > Mercado de Capitais",
+    "description": "Este setor inclui entidades que: 1. Subscrever questões de valores mobiliários e/ou fabricar mercados para valores mobiliários e commodities;"
+  },
+  {
+    "id": 1720,
+    "label": "Consultoria de Investimentos",
+    "hierarchy": "Serviços Financeiros > Mercado de Capitais > Consultoria de Investimentos",
+    "description": "Esse setor inclui entidades que fornecem conselhos de investimento personalizados aos clientes com base na taxa, mas não têm autoridade para executar negócios."
+  },
+  {
+    "id": 45,
+    "label": "Banco de Investimentos",
+    "hierarchy": "Serviços Financeiros > Mercado de Capitais > Banco de Investimentos",
+    "description": "Esse setor inclui entidades que subscrevem, originam e/ou mantêm mercados para questões de valores mobiliários e entidades que atuam como diretores na compra ou venda de valores mobiliários, como revendedores de valores mobiliários ou revendedores de opções de ações."
+  },
+  {
+    "id": 46,
+    "label": "Gestão de Investimentos",
+    "hierarchy": "Serviços Financeiros > Mercado de Capitais > Gestão de Investimentos",
+    "description": "Esse setor inclui entidades que atuam como diretores ou corretores na compra ou venda de contratos financeiros (exceto banqueiros de investimento e valores mobiliários e contratos de commodities e corretoras, que estão em indústrias separadas)."
+  },
+  {
+    "id": 1713,
+    "label": "Bolsa de Valores e Commodities",
+    "hierarchy": "Serviços Financeiros > Mercado de Capitais > Bolsas de Valores e Commodities",
+    "description": "Esse setor inclui entidades que fornecem mercados físicos ou eletrônicos para facilitar a compra e venda de ações, opções de ações, títulos ou contratos de commodities."
+  },
+  {
+    "id": 106,
+    "label": "Capital de Risco e Diretores de Private Equity",
+    "hierarchy": "Serviços Financeiros > Mercado de Capitais > Capital de Risco e Diretores de Private Equity",
+    "description": "Esse setor inclui entidades que atuam como diretores (exceto banqueiros de investimento, revendedores de valores mobiliários e revendedores de contratos de commodities, que estão em indústrias separadas) na compra ou venda de contratos financeiros em geral em uma base de spread."
+  },
+  {
+    "id": 1673,
+    "label": "Intermediação de Crédito",
+    "hierarchy": "Serviços Financeiros > Intermediação de Crédito",
+    "description": "Esse setor inclui entidades que emprestam principalmente fundos arrecadados de depositantes ou em empréstimos do mercado de crédito;"
+  },
+  {
+    "id": 41,
+    "label": "Bancos",
+    "hierarchy": "Serviços Financeiros > Intermediação de Crédito > Bancos",
+    "description": "Esse setor inclui entidades que aceitam demanda e outros depósitos e fazem empréstimos comerciais, industriais e de consumidores."
+  },
+  {
+    "id": 141,
+    "label": "Comércio e Desenvolvimento Internacional",
+    "hierarchy": "Serviços Financeiros > Intermediação de Crédito > Comércio e Desenvolvimento Internacional",
+    "description": "Este setor inclui entidades que fornecem fundos de capital de giro aos exportadores;"
+  },
+  {
+    "id": 1696,
+    "label": "Corretores de Empréstimos",
+    "hierarchy": "Serviços Financeiros > Intermediação de Crédito > Corretores de Empréstimos",
+    "description": "Esse setor inclui entidades que organizam principalmente empréstimos, reunindo mutuários e credores com base em comissão ou taxa."
+  },
+  {
+    "id": 1678,
+    "label": "Instituições de Poupança",
+    "hierarchy": "Serviços Financeiros > Intermediação de Crédito > Instituições de Poupança",
+    "description": "Esse setor inclui entidades que aceitam principalmente depósitos de tempo, fazem empréstimos hipotecários e imobiliários e investem em títulos de alto grau, incluindo associações de poupança e empréstimos e bancos de poupança."
+  },
+  {
+    "id": 1742,
+    "label": "Fundos e Trusts",
+    "hierarchy": "Serviços Financeiros > Fundos e Trusts",
+    "description": "Esse setor inclui entidades legais (como fundos, planos e/ou programas) organizadas para reunir valores mobiliários ou outros ativos em nome de acionistas ou beneficiários de benefício dos funcionários ou outros fundos fiduciários para obter juros, dividendos e outras receitas de investimento."
+  },
+  {
+    "id": 1743,
+    "label": "Seguros e Fundos de Benefícios de Funcionários",
+    "hierarchy": "Serviços Financeiros > Fundos e Trusts > Seguros e Fundos de Benefícios de Funcionários",
+    "description": "Esse setor inclui entidades legais (como fundos, planos e/ou programas) organizadas para fornecer seguros e benefícios dos funcionários exclusivamente para o patrocinador, empresa ou seus funcionários ou membros."
+  },
+  {
+    "id": 1745,
+    "label": "Fundos de Pensão",
+    "hierarchy": "Serviços Financeiros > Fundos e Trusts > Fundos de Pensão",
+    "description": "Esse setor inclui entidades legais (como fundos, planos e/ou programas) organizadas para fornecer benefícios de renda de aposentadoria exclusivamente para os funcionários ou membros do patrocinador."
+  },
+  {
+    "id": 1750,
+    "label": "Confiança e propriedades",
+    "hierarchy": "Serviços Financeiros > Fundos e Trusts > Trusts e propriedades",
+    "description": "Esse setor inclui entidades legais (como pools de investimentos e/ou fundos) organizados para agrupar títulos ou outros ativos (exceto os fundos de benefícios e benefícios de funcionários, que estão em indústrias separadas) em nome de acionistas, inituladores ou beneficiários."
+  },
+  {
+    "id": 42,
+    "label": "Seguro",
+    "hierarchy": "Serviços Financeiros > Seguro",
+    "description": "Esse setor inclui entidades que subscrevem anuidades e apólices de seguro ou vendem apólices de seguro e fornecem outros serviços de seguros e funcionários-benefícios."
+  },
+  {
+    "id": 1738,
+    "label": "Regulação de Sinistros, Serviços Atuariais",
+    "hierarchy": "Serviços Financeiros > Seguro > Regulação de Sinistros, Serviços Atuariais",
+    "description": "Este setor inclui entidades que fornecem principalmente serviços relacionados ao seguro (exceto agências de seguros e corretoras)."
+  },
+  {
+    "id": 1737,
+    "label": "Agências de Seguros e Corretoras",
+    "hierarchy": "Serviços Financeiros > Seguro > Agências de Seguros e Corretoras",
+    "description": "Esse setor inclui entidades que atuam principalmente como agentes (como corretores) na venda de anuidades e apólices de seguro."
+  },
+  {
+    "id": 1725,
+    "label": "Seguradoras",
+    "hierarchy": "Serviços Financeiros > Seguro > Seguradoras",
+    "description": "Esse setor inclui entidades que fornecem principalmente a subscrição (assumindo o risco, a atribuição de prêmios e assim por diante) anuidades e apólices de seguro e investindo prêmios para criar um portfólio de ativos financeiros a serem usados contra reivindicações futuras."
+  },
+  {
+    "id": 75,
+    "label": "Administração Governamental",
+    "hierarchy": "Administração Governamental",
+    "description": "Esse setor inclui entidades de agências governamentais federais, estaduais e locais que administram, supervisionam e gerenciam programas públicos;"
+  },
+  {
+    "id": 73,
+    "label": "Administração da Justiça",
+    "hierarchy": "Administração Governamental > Administração da Justiça",
+    "description": "Essa indústria inclui entidades governamentais que administram justiça, incluindo tribunais, instituições correcionais e outros escritórios."
+  },
+  {
+    "id": 3068,
+    "label": "Instituições Correcionais",
+    "hierarchy": "Administração Governamental > Administração da Justiça > Instituições Correcionais",
+    "description": "Esse setor inclui entidades governamentais que gerenciam e operam instituições correcionais projetadas para o confinamento, correção e reabilitação de criminosos adultos e/ou juvenis condenados por um tribunal."
+  },
+  {
+    "id": 3065,
+    "label": "Tribunais de Justiça",
+    "hierarchy": "Administração Governamental > Administração da Justiça > Tribunais de Justiça",
+    "description": "Essa indústria inclui tribunais civis (exceto os indianos americanos e os tribunais tribais nativos do Alasca, que estão em uma indústria separada)."
+  },
+  {
+    "id": 3070,
+    "label": "Proteção contra Incêndios",
+    "hierarchy": "Administração Governamental > Administração da Justiça > Proteção contra Incêndios",
+    "description": "Esse setor inclui entidades governamentais que oferecem combate a incêndios e outras atividades relacionadas à proteção contra incêndio."
+  },
+  {
+    "id": 77,
+    "label": "Aplicação da Lei",
+    "hierarchy": "Administração Governamental > Administração da Justiça > Aplicação da Lei",
+    "description": "Esse setor inclui entidades governamentais que reforçam o direito criminal e civil, fornecem atividade policial, segurança no trânsito e outras atividades relacionadas à execução da lei e preservação da ordem."
+  },
+  {
+    "id": 78,
+    "label": "Segurança Pública",
+    "hierarchy": "Administração Governamental > Administração da Justiça > Segurança Pública",
+    "description": "Essa indústria inclui entidades governamentais que fornecem ordem e segurança públicas (exceto tribunais, proteção policial, consultor jurídico e acusação, instituições correcionais, escritórios de liberdade condicional, escritórios de liberdade condicional, conselhos de perdão e proteção contra incêndio)."
+  },
+  {
+    "id": 2375,
+    "label": "Programas Econômicos",
+    "hierarchy": "Administração Governamental > Programas Econômicos",
+    "description": "Esse setor inclui entidades governamentais que administram programas econômicos."
+  },
+  {
+    "id": 3085,
+    "label": "Programas de Transporte",
+    "hierarchy": "Administração Governamental > Programas Econômicos > Programas de Transporte",
+    "description": "Esse setor inclui entidades governamentais que se concentram na administração, regulamentação, licenciamento, planejamento, inspeção e investigação de serviços e instalações de transporte, incluindo licenciamento de veículos a motor e operadores, a Guarda Costeira (exceto a Academia da Guarda Costeira, que está em uma indústria separada"
+  },
+  {
+    "id": 3086,
+    "label": "Administração de Sistemas Utilitários",
+    "hierarchy": "Administração Governamental > Programas Econômicos > Administração de Sistemas Utilitários",
+    "description": "Essa indústria inclui entidades governamentais que se concentram na administração, regulamentação, licenciamento e inspeção de serviços públicos, como comunicações, energia elétrica (incluindo fósseis, Nucleares, solares, água e vento), abastecimento de gás e água e esgoto."
+  },
+  {
+    "id": 388,
+    "label": "Programas de Qualidade Ambiental",
+    "hierarchy": "Administração Governamental > Programas de Qualidade Ambiental",
+    "description": "Esse setor inclui entidades governamentais que administram Programas de Qualidade Ambiental."
+  },
+  {
+    "id": 2366,
+    "label": "Gerenciamento de Programas de Ar, Água e Resíduos",
+    "hierarchy": "Administração Governamental > Programas de Qualidade Ambiental > Gerenciamento de Programas de Ar, Água e Resíduos",
+    "description": "Esse setor inclui entidades governamentais que se concentram na administração, regulamentação ou aplicação de programas relacionados a um ou mais dos seguintes: 1. Recursos aéreos e hídricos;"
+  },
+  {
+    "id": 2368,
+    "label": "Programas de Conservação",
+    "hierarchy": "Administração Governamental > Programas de Qualidade Ambiental > Programas de Conservação",
+    "description": "Essa indústria inclui entidades governamentais que se concentram na administração, regulamentação, supervisão e controle do uso da terra, incluindo áreas recreativas;"
+  },
+  {
+    "id": 2353,
+    "label": "Saúde e Serviços Humanos",
+    "hierarchy": "Administração Governamental > Saúde e Serviços Humanos",
+    "description": "Este setor inclui entidades governamentais que administram programas de recursos humanos."
+  },
+  {
+    "id": 69,
+    "label": "Programas de Administração de Educação",
+    "hierarchy": "Administração Governamental > Saúde e Serviços Humanos > Programas de Administração de Educação",
+    "description": "Esse setor inclui entidades governamentais que coordenam, planejam, supervisionam e administram fundos, políticas, atividades, relatórios estatísticos, coleta de dados e programas centralizados para administração educacional."
+  },
+  {
+    "id": 2360,
+    "label": "Programas de Assistência Pública",
+    "hierarchy": "Administração Governamental > Saúde e Serviços Humanos > Programas de Assistência Pública",
+    "description": "Esse setor inclui entidades governamentais que planejam, administram e coordenam programas para assistência pública, serviço social e atividades de bem -estar, incluindo seguridade social, seguro de invalidez, Medicare, seguro -desemprego e programas de compensação dos trabalhadores."
+  },
+  {
+    "id": 2358,
+    "label": "Saúde Pública",
+    "hierarchy": "Administração Governamental > Saúde e Serviços Humanos > Saúde Pública",
+    "description": "Esse setor inclui entidades governamentais que planejam, administram e coordenam programas e serviços de saúde pública, incluindo atividades de saúde ambiental, saúde mental, programas de saúde categórica, estatísticas de saúde e serviços de imunização."
+  },
+  {
+    "id": 2369,
+    "label": "Habitação e Desenvolvimento Comunitário",
+    "hierarchy": "Administração Governamental > Habitação e Desenvolvimento Comunitário",
+    "description": "Esse setor inclui entidades governamentais que administram programas para moradia, planejamento urbano e desenvolvimento comunitário."
+  },
+  {
+    "id": 2374,
+    "label": "Desenvolvimento Comunitário e Planejamento Urbano",
+    "hierarchy": "Administração Governamental > Habitação e Desenvolvimento Comunitário > Desenvolvimento Comunitário e Planejamento Urbano",
+    "description": "Essa indústria inclui entidades governamentais que se concentram na administração e planejamento do desenvolvimento de áreas urbanas e rurais, incluindo conselhos de zoneamento e comissões do governo."
+  },
+  {
+    "id": 3081,
+    "label": "Programas Habitacionais",
+    "hierarchy": "Administração Governamental > Habitação e Desenvolvimento Comunitário > Programas Habitacionais",
+    "description": "Este setor inclui entidades governamentais que planejam e administram programas habitacionais."
+  },
+  {
+    "id": 2391,
+    "label": "Assuntos Militares e Internacionais",
+    "hierarchy": "Administração Governamental > Assuntos Militares e Internacionais",
+    "description": "Esse setor inclui entidades governamentais que administram programas de segurança nacional e assuntos internacionais."
+  },
+  {
+    "id": 71,
+    "label": "Forças Armadas",
+    "hierarchy": "Administração Governamental > Assuntos Militares e Internacionais > Forças Armadas",
+    "description": "Esse setor inclui entidades governamentais envolvidas em segurança nacional e atividades relacionadas."
+  },
+  {
+    "id": 74,
+    "label": "Assuntos Internacionais",
+    "hierarchy": "Administração Governamental > Assuntos Militares e Internacionais > Assuntos Internacionais",
+    "description": "Esse setor inclui entidades de governos locais e estrangeiros que se concentram em assuntos internacionais e programas relacionados a outras nações e povos."
+  },
+  {
+    "id": 79,
+    "label": "Escritórios de Política Pública",
+    "hierarchy": "Administração Governamental > Escritórios de Política Pública",
+    "description": "Esse setor inclui escritórios de executivos do governo, órgãos legislativos, finanças públicas e apoio geral ao governo."
+  },
+  {
+    "id": 76,
+    "label": "Escritórios Executivos",
+    "hierarchy": "Administração Governamental > Escritórios de Política Pública > Escritórios Executivos",
+    "description": "Esse setor inclui entidades governamentais que servem como escritórios de executivos -chefe e seus comitês e comissões consultivas."
+  },
+  {
+    "id": 72,
+    "label": "Escritórios Legislativos",
+    "hierarchy": "Administração Governamental > Escritórios de Política Pública > Escritórios Legislativos",
+    "description": "Essa indústria inclui entidades governamentais que servem como órgãos legislativos e seus comitês e comissões consultivas."
+  },
+  {
+    "id": 3089,
+    "label": "Pesquisa e Tecnologia Espaciais",
+    "hierarchy": "Administração Governamental > Pesquisa e Tecnologia Espaciais",
+    "description": "Esse setor inclui entidades governamentais que administram e operam voos espaciais, pesquisa espacial, exploração espacial e centros de voo espacial."
+  },
+  {
+    "id": 1905,
+    "label": "Empresas controladoras",
+    "hierarchy": "Empresas controladoras",
+    "description": "Esse setor inclui entidades que possuem interesses de capital em empresas e empresas com o objetivo de possuir um interesse controlador ou influenciar as decisões de gerenciamento."
+  },
+  {
+    "id": 14,
+    "label": "Hospitais e Assistência Médica",
+    "hierarchy": "Hospitais e Assistência Médica",
+    "description": "Esse setor inclui entidades que fornecem assistência social relacionada à saúde e à saúde para indivíduos."
+  },
+  {
+    "id": 2115,
+    "label": "Serviços Comunitarios",
+    "hierarchy": "Hospitais e Assistência Médica > Serviços Comunitários",
+    "description": "Este setor inclui entidades oferece abrigo de emergência de curto prazo, abrigo residencial temporário, habitação de transição, construção de voluntários ou reparo de moradias de baixo custo;"
+  },
+  {
+    "id": 2112,
+    "label": "Serviços para Idosos e Deficientes",
+    "hierarchy": "Hospitais e Assistência Médica > Serviços Comunitários > Serviços para Idosos e Deficientes",
+    "description": "Este setor inclui entidades que fornecem serviços para apoio aos idosos e deficientes."
+  },
+  {
+    "id": 2081,
+    "label": "Hospitais",
+    "hierarchy": "Hospitais e Assistência Médica > Hospitais",
+    "description": "Esse setor inclui entidades que fornecem serviços variados de medicina, diagnóstico e tratamento que incluem médico, enfermagem e outros serviços de saúde para pacientes internados."
+  },
+  {
+    "id": 88,
+    "label": "Serviços Individuais e Familiares",
+    "hierarchy": "Hospitais e Assistência Médica > Serviços Individuais e Familiares",
+    "description": "Essa indústria inclui entidades que fornecem assistência social não -residencial a crianças e jovens, idosos, pessoas com deficiência e todos os outros indivíduos e famílias."
+  },
+  {
+    "id": 2128,
+    "label": "Serviços de Creche para Crianças",
+    "hierarchy": "Hospitais e Assistência Médica > Serviços Individuais e Familiares > Serviços de Creche para Crianças",
+    "description": "Esse setor inclui entidades que fornecem cuidados diurnos de bebês ou crianças que não estão na escola e também podem oferecer programas educacionais pré-jardineiros e/ou jardim de infância."
+  },
+  {
+    "id": 2122,
+    "label": "Serviços de Emergência e Socorro",
+    "hierarchy": "Hospitais e Assistência Médica > Serviços Individuais e Familiares > Serviços de Emergência e Socorro",
+    "description": "Essa indústria inclui entidades que fornecem alimentos, abrigo, roupas, alívio médico, reassentamento e aconselhamento às vítimas de desastres ou conflitos nacionais ou internacionais (por exemplo, guerras)."
+  },
+  {
+    "id": 2125,
+    "label": "Serviços de Reabilitação Profissional",
+    "hierarchy": "Hospitais e Assistência Médica > Serviços Individuais e Familiares > Serviços de Reabilitação Profissional",
+    "description": "Esse setor inclui entidades que fornecem serviços de reabilitação ou habilitação profissional, como aconselhamento para empregos, treinamento de trabalho e experiência de trabalho, para pessoas desempregadas e subempregadas, pessoas com deficiência e pessoas que têm uma desvantagem no mercado de trabalho devido à falta de educação, habilidade no trabalho"
+  },
+  {
+    "id": 13,
+    "label": "Práticas Médicas",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas",
+    "description": "Esse setor inclui Práticas Médicas individuais que prestam serviços de saúde direta ou indiretamente a pacientes ambulatoriais."
+  },
+  {
+    "id": 125,
+    "label": "Medicina Alternativa",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Medicina Alternativa",
+    "description": "Esse setor inclui profissionais de saúde independentes, incluindo acupunturistas, hipnoterapeutas, homeopatas e naturopatas."
+  },
+  {
+    "id": 2077,
+    "label": "Serviços de Ambulância",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Serviços de Ambulância",
+    "description": "Esse setor inclui entidades que fornecem o transporte de pacientes por solo ou ar, juntamente com os cuidados médicos."
+  },
+  {
+    "id": 2048,
+    "label": "Quiropratas",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Quiropratas",
+    "description": "Essa indústria inclui profissionais de saúde com o grau de D.C. (Doutor em Quiropraxia) praticando terapia quiroprática."
+  },
+  {
+    "id": 2045,
+    "label": "Dentistas",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Dentistas",
+    "description": "Este setor inclui profissionais de saúde com o grau de D.M.D."
+  },
+  {
+    "id": 2060,
+    "label": "Centros de Planejamento Familiar",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Centros de Planejamento Familiar",
+    "description": "Esse setor inclui entidades com funcionários médicos que fornecem uma gama de serviços de planejamento familiar em um paciente ambulatorial, como serviços contraceptivos, aconselhamento genético e pré -natal, esterilização voluntária e rescisão terapêutica e induzida clinicamente da gravidez."
+  },
+  {
+    "id": 2074,
+    "label": "Serviços de Saúde à Domicílio",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Serviços de Saúde à Domicílio",
+    "description": "Este setor inclui entidades que fornecem serviços de enfermagem qualificados em casa, juntamente com uma variedade do seguinte: Serviços de Cuidados Pessoais;"
+  },
+  {
+    "id": 2069,
+    "label": "Laboratórios Médicos e Diagnósticos",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Laboratórios Médicos e de Diagnósticos",
+    "description": "Esse setor inclui laboratórios médicos e de diagnóstico que fornecem serviços analíticos ou de diagnóstico, incluindo análise de fluidos corporais e imagem de diagnóstico, geralmente à profissão médica ou ao paciente em encaminhamento de um profissional de saúde."
+  },
+  {
+    "id": 139,
+    "label": "Cuidados de Saúde Mental",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Cuidados de Saúde Mental",
+    "description": "Esta indústria inclui profissionais independentes de saúde mental (exceto médicos, que estão em uma indústria separada) que diagnosticam e tratam distúrbios mentais, emocionais e comportamentais e/ou disfunção social individual ou em grupo provocada por doenças mentais, abuso de álcool e substâncias, físico e físico e"
+  },
+  {
+    "id": 2050,
+    "label": "Optometristas",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Optometristas",
+    "description": "Este setor inclui profissionais de saúde com o grau de O.D."
+  },
+  {
+    "id": 2063,
+    "label": "Centros de Atendimento Ambulatorial",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Centros de Atendimento Ambulatorial",
+    "description": "Esse setor inclui entidades com funcionários médicos que fornecem atendimento ambulatorial geral ou especializado (exceto centros de planejamento familiar e centros de saúde mental e abuso de substâncias ambulatoriais, que estão em indústrias separadas)."
+  },
+  {
+    "id": 2054,
+    "label": "Terapeutas Físicos, Ocupacionais e Fonoaudiólogos",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Terapeutas Físicos, Ocupacionais e Fonoaudiólogos",
+    "description": "Este setor inclui profissionais de saúde independentes que prestam serviços de fisioterapia a pacientes que precisam de prevenção, bem -estar ou serviços de condicionamento físico;"
+  },
+  {
+    "id": 2040,
+    "label": "Médicos",
+    "hierarchy": "Hospitais e Assistência Médica > Práticas Médicas > Médicos",
+    "description": "Este setor inclui profissionais de saúde com o grau de M.D. (Doutor em Medicina) ou D.O."
+  },
+  {
+    "id": 2091,
+    "label": "Casas de Repouso e Instalações de Cuidados Residenciais",
+    "hierarchy": "Hospitais e Assistência Médica > Casas de Repouso e Instalações de Cuidados Residenciais",
+    "description": "Esse setor inclui entidades que prestam cuidados residenciais combinados com enfermagem, supervisão ou outros tipos de atendimento, conforme exigido pelos moradores."
+  },
+  {
+    "id": 25,
+    "label": "Fabricação",
+    "hierarchy": "Fabricação",
+    "description": "Essa indústria inclui entidades que usam transformação mecânica, física ou química de materiais, substâncias ou componentes para criar novos produtos."
+  },
+  {
+    "id": 598,
+    "label": "Fabricação de Vestuário",
+    "hierarchy": "Fabricação > Fabricação de Vestuário",
+    "description": "Essa indústria inclui entidades que compram tecido e cortam e costuram para fazer uma roupa, e aquelas que primeiro tricotaram o tecido e depois cortam e costuram para fazer uma roupa."
+  },
+  {
+    "id": 615,
+    "label": "Fabricação de acessórios de moda",
+    "hierarchy": "Fabricação > Fabricação de Vestuário > Fabricação de Acessórios de Moda",
+    "description": "Essa indústria inclui entidades que fabricam vestuário e acessórios (exceto fábricas de tricô de vestuário e vestuário de corte e costura, que estão em indústrias separadas), incluindo empregos que desempenham funções empreendedoras na fabricação de acessórios de vestuário."
+  },
+  {
+    "id": 112,
+    "label": "Fabricação de Eletrodomésticos, Aparelhos Elétricos e Eletrônicos",
+    "hierarchy": "Fabricação > Fabricação de Eletrodomésticos, Aparelhos Elétricos e Eletrônicos",
+    "description": "Essa indústria inclui entidades que fabricam produtos que geram, distribuem e usam energia elétrica, incluindo pequenos e principais aparelhos elétricos e peças;"
+  },
+  {
+    "id": 998,
+    "label": "Fabricação de Equipamentos de Iluminação Elétrica",
+    "hierarchy": "Fabricação > Fabricação de Eletrodomésticos, Aparelhos Elétricos e Eletrônicos > Fabricação de Equipamentos de Iluminação Elétrica",
+    "description": "Esta indústria inclui entidades que fabricam 1. Lâmpadas e tubos elétricos e peças e componentes (exceto espaços em branco de vidro para lâmpadas elétricas, que estão em indústrias separadas) ou 2. Fixagens de iluminação elétrica (exceto veículos, que estão em uma indústria separada)"
+  },
+  {
+    "id": 2468,
+    "label": "Fabricação de Equipamentos Elétricos",
+    "hierarchy": "Fabricação > Fabricação de Eletrodomésticos, Aparelhos Elétricos e Eletrônicos > Fabricação de Equipamentos Elétricos",
+    "description": "Esta indústria inclui entidades que fabricam energia, distribuição e transformadores de especialidade;"
+  },
+  {
+    "id": 3255,
+    "label": "Fabricação de Células de Combustível",
+    "hierarchy": "Fabricação > Fabricação de Eletrodomésticos, Aparelhos Elétricos e Eletrônicos > Fabricação de Equipamentos Elétricos > Fabricação de Células de Combustível",
+    "description": "Esta indústria inclui entidades que fabricam dispositivos de conversão eletroquímicos que convertem energia química de fontes de combustível em eletricidade."
+  },
+  {
+    "id": 1005,
+    "label": "Fabricação de Eletrodomésticos",
+    "hierarchy": "Fabricação > Fabricação de Eletrodomésticos, Aparelhos Elétricos e Eletrônicos > Fabricação de Eletrodomésticos",
+    "description": "Esta indústria inclui entidades que fabricam pequenos aparelhos elétricos, utensílios domésticos elétricos e grandes eletrodomésticos."
+  },
+  {
+    "id": 54,
+    "label": "Fabricação de Produtos Químicos",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos",
+    "description": "Essa indústria inclui entidades que transformam matérias -primas orgânicas e inorgânicas por um processo químico e formulam produtos."
+  },
+  {
+    "id": 709,
+    "label": "Fabricação de Produtos Químicos Agrícolas",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação de Produtos Químicos Agrícolas",
+    "description": "Esta indústria inclui entidades que fabricam: 1. Materiais de fertilizantes nitrogenados ou fosfáticos com ou sem misturar com outros ingredientes em fertilizantes;"
+  },
+  {
+    "id": 703,
+    "label": "Fabricação de Borracha Artificial e Fibra Sintética",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação de Borracha Artificial e Fibra Sintética",
+    "description": "Essa indústria inclui entidades que fabricam resinas sintéticas, materiais de plásticos e elastômeros não vulanizáveis e resinas de mistura e mistura;"
+  },
+  {
+    "id": 690,
+    "label": "Fabricação de Matérias-primas Químicas",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação de Matérias-primas Químicas",
+    "description": "Essa indústria inclui entidades que fabricam produtos químicos usando processos básicos, como rachaduras e destilação térmicas."
+  },
+  {
+    "id": 722,
+    "label": "Fabricação de Pinturas, Revestimentos e Adesivos",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação de Pinturas, Revestimentos e Adesivos",
+    "description": "Essa indústria inclui entidades que misturam pigmentos, solventes e ligantes em tintas e outros revestimentos, bem como aqueles que fabricam produtos de tinta aliada, adesivos, colas e compostos de calafetagem."
+  },
+  {
+    "id": 18,
+    "label": "Fabricação de Produtos para Cuidados Pessoais",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação de Produtos para Cuidados Pessoais",
+    "description": "Esta indústria inclui entidades que preparam, mistura, compostos e preparações de higiene pessoal, como perfumes, preparações de barbear, preparações para o cabelo, cremes para o rosto, loções (incluindo filtros solares) e outras preparações cosméticas."
+  },
+  {
+    "id": 15,
+    "label": "Fabricação Farmacêutica",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação Farmacêutica",
+    "description": "Este setor inclui entidades que: 1. Fabricar produtos biológicos e medicinais;"
+  },
+  {
+    "id": 727,
+    "label": "Fabricação de Sabão e Produtos de Limpeza",
+    "hierarchy": "Fabricação > Fabricação de Produtos Químicos > Fabricação de Sabão e Produtos de Limpeza",
+    "description": "Essa indústria inclui entidades que fabricam e pacotes sabonetes e outros compostos de limpeza, agentes ativos de superfície e agentes de acabamento têxteis e de couro usados para reduzir a tensão ou acelerar o processo de secagem."
+  },
+  {
+    "id": 3251,
+    "label": "Fabricação de produtos de tecnologia climática",
+    "hierarchy": "Fabricação > Fabricação de produtos de tecnologia climática",
+    "description": "Essa indústria inclui entidades que pesquisam, desenvolvem e produzem tecnologias para a geração de energia renovável, células de combustível alternativas e carbono sequestrando e outros gases de efeito estufa da atmosfera."
+  },
+  {
+    "id": 24,
+    "label": "Fabricação de Computadores e Eletrônicos",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos",
+    "description": "Esse setor inclui entidades que fabricam computadores, periféricos de computadores, equipamentos de comunicação e produtos eletrônicos similares e entidades que fabricam componentes para esses produtos."
+  },
+  {
+    "id": 973,
+    "label": "Fabricação de Equipamentos de Áudio e Vídeo",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Equipamentos de Áudio e Vídeo",
+    "description": "Esta indústria inclui entidades que fabricam equipamentos eletrônicos de áudio e vídeo para entretenimento doméstico, veículos a motor e amplificação de endereços públicos e instrumentos musicais."
+  },
+  {
+    "id": 964,
+    "label": "Fabricação de Equipamentos de Comunicação",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Equipamentos de Comunicação",
+    "description": "Esse setor inclui entidades que fabricam equipamentos de comunicação, como equipamentos de telefone e comunicação de dados e equipamentos de transmissão de rádio ou televisão e comunicações sem fio."
+  },
+  {
+    "id": 3,
+    "label": "Fabricação de Hardware de Computadores",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Hardware de Computadores",
+    "description": "Esse setor inclui entidades que fabricam ou montam computadores eletrônicos, como mainframes, computadores pessoais, estações de trabalho, laptops e servidores de computador;"
+  },
+  {
+    "id": 3245,
+    "label": "Fabricação de Hardware Acessível",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Hardware de Computadores > Fabricação de Hardware Acessível",
+    "description": "Este setor inclui entidades que fabricam ou montam hardware de acessibilidade ao computador, como dispositivos de apontamento eletrônico, telas de toque e teclados adaptáveis."
+  },
+  {
+    "id": 994,
+    "label": "Fabricação de Mídia Magnética e Óptica",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Mídia Magnética e Óptica",
+    "description": "Esta indústria inclui entidades que fabricam meios ópticos e magnéticos, como fitas de áudio em branco, fitas de vídeo em branco e disquetes em branco e/ou duplicata em massa (como fazer cópias) áudio, vídeo, software e outros dados sobre magnéticos, ópticos"
+  },
+  {
+    "id": 983,
+    "label": "Fabricação de Instrumentos de Medição e Controle",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Instrumentos de Medição e Controle",
+    "description": "Esta indústria inclui entidades que fabricam instrumentos de navegação, medição, eletromédica e controle."
+  },
+  {
+    "id": 3254,
+    "label": "Fabricação de Medidores Inteligentes",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Instrumentos de Medição e Controle > Fabricação de Medidores Inteligentes",
+    "description": "Esse setor inclui entidades que fabricam dispositivos de medição eletrônica que medem e registram o uso de utilidades em tempo real e permitem a comunicação bidirecional com os provedores de serviços públicos."
+  },
+  {
+    "id": 7,
+    "label": "Fabricação de Semicondutores",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Semicondutores",
+    "description": "Este setor inclui entidades que fabricam semicondutores e outros componentes para aplicações eletrônicas."
+  },
+  {
+    "id": 144,
+    "label": "Fabricação de Semicondutores de Energia Renovável",
+    "hierarchy": "Fabricação > Fabricação de Computadores e Eletrônicos > Fabricação de Semicondutores > Fabricação de Semicondutores de Energia Renovável",
+    "description": "Essa indústria inclui entidades que fabricam semicondutores e outros componentes para uso em células fotovoltaicas e outras aplicações de energia renovável."
+  },
+  {
+    "id": 840,
+    "label": "Produtos Metálicos Fabricados",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados",
+    "description": "Essa indústria inclui entidades que transformam metal em produtos intermediários ou finais ou tratam metais e produtos formados em metal fabricados em outros lugares."
+  },
+  {
+    "id": 852,
+    "label": "Fabricação de Metais Arquitetônicos e Estruturais",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Metais Arquitetônicos e Estruturais",
+    "description": "Esta indústria inclui entidades que fabricam um ou mais dos seguintes: 1. Edifícios de metal pré -fabricados, painéis e seções;"
+  },
+  {
+    "id": 861,
+    "label": "Fabricação de Caldeiras, Tanques e Contêineres",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Caldeiras, Tanques e Contêineres",
+    "description": "Esta indústria inclui entidades que: 1. Fabricar caldeiras de energia e trocadores de calor;"
+  },
+  {
+    "id": 871,
+    "label": "Fabricação de Ferragens para Construção",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Ferragens para Construção",
+    "description": "Essa indústria inclui entidades que fabricam hardware de metal, como dobradiças de metal, alças de metal, chaves e bloqueios (exceto bloqueios de moedas ou de tempo, que estão em indústrias separadas)."
+  },
+  {
+    "id": 849,
+    "label": "Fabricação de Cutelaria e Ferramentas Manuais",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Cutelaria e Ferramentas Manuais",
+    "description": "Esta indústria inclui entidades que fabricam um ou mais dos seguintes: 1. Metal Kitchen Cookware (exceto por fundição (por exemplo, frigideiras de ferro fundido) ou carimbado sem fabricação adicional), utensílios e/ou talheres e talheres de metal com banheiros preciosos e não preciosos;"
+  },
+  {
+    "id": 883,
+    "label": "Tratamentos de Metais",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Tratamentos de Metais",
+    "description": "Este setor inclui entidades que realizam um ou mais dos seguintes serviços para metais e produtos de metal: 1. Tratamento térmico;"
+  },
+  {
+    "id": 887,
+    "label": "Fabricação de Válvulas, Bolas e Rolos de Metal",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Válvulas, Bolas e Rolos de Metal",
+    "description": "Esta indústria inclui entidades que fabricam Produtos Metálicos Fabricados como válvulas, bolas e rolos (exceto esquecedores e estampagem, talheres e ferramentas manuais, metais arquitetônicos e estruturais, caldeiras, tanques, contêineres, hardware, produtos de mola e arame, produtos para lojas de máquina, transformados"
+  },
+  {
+    "id": 873,
+    "label": "Fabricação de Produtos de Mola e Arame",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Produtos de Mola e Arame",
+    "description": "Essa indústria inclui entidades que fabricam molas de aço por formação, como corte, flexão e enrolamento de calor, barra de metal ou estoque de tira e/ou molas de arame e produtos de arame fabricados a partir de arame desenhado em outros lugares (exceto relógios e molas de relógio, que estão em separado"
+  },
+  {
+    "id": 876,
+    "label": "Fabricação de Produtos Torneados e Fixadores",
+    "hierarchy": "Fabricação > Produtos Metálicos Fabricados > Fabricação de Produtos Torneados e Fixadores",
+    "description": "Este setor inclui entidades envolvidas em um dos seguintes: 1. Oficinas de máquinas operacionais para usinar peças de metal e plástico e partes de outros materiais compostos em uma base de trabalho ou pedido;"
+  },
+  {
+    "id": 23,
+    "label": "Fabricação de Alimentos e Bebidas",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas",
+    "description": "Esse setor inclui entidades que transformam produtos de gado e agrícola em produtos para consumo intermediário ou final, normalmente vendidos a atacadistas ou varejistas para distribuição aos consumidores;"
+  },
+  {
+    "id": 562,
+    "label": "Cervejarias",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Cervejarias",
+    "description": "Esta indústria inclui entidades que fabricam cerveja, cerveja, cerveja, licores de malte e cerveja não alcoólica."
+  },
+  {
+    "id": 564,
+    "label": "Destilarias",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Destilarias",
+    "description": "Esse setor inclui entidades que destilam licores potáveis (exceto Brandies, que estão em uma indústria separada), destilar e misturar licores e/ou misturar e misturar licores e outros ingredientes."
+  },
+  {
+    "id": 2500,
+    "label": "Vinícolas",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Vinícolas",
+    "description": "Este setor inclui entidades que se concentram em um ou mais dos seguintes: 1. Grapes em crescimento e vinhos de fabricação e brandies;"
+  },
+  {
+    "id": 481,
+    "label": "Fabricação de Alimentos para Animais",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Alimentos para Animais",
+    "description": "Essa indústria inclui entidades que fabricam alimentos e alimentos para animais de ingredientes, como grãos, produtos de fábrica de oleaginosas e produtos de carne."
+  },
+  {
+    "id": 529,
+    "label": "Fabricação de Produtos de Panificação",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Produtos de Panificação",
+    "description": "Esta indústria inclui entidades que: 1. Fabricar pão fresco e congelado e outros produtos de padaria;"
+  },
+  {
+    "id": 142,
+    "label": "Fabricação de Bebidas",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Bebidas",
+    "description": "Esta indústria inclui entidades que fabricam refrigerantes e gelo;"
+  },
+  {
+    "id": 65,
+    "label": "Fabricação de Produtos Lácteos",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Produtos Lácteos",
+    "description": "Esta indústria inclui entidades que fabricam produtos lácteos a partir de leite cru, leite processado e substitutos de laticínios."
+  },
+  {
+    "id": 504,
+    "label": "Fabricação de Conservas de Frutas e Vegetais",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Conservas de Frutas e Vegetais",
+    "description": "Essa indústria inclui entidades que congelam alimentos e usam processos de preservação, como decapagem, conservas e desidratação."
+  },
+  {
+    "id": 521,
+    "label": "Fabricação de Produtos de Carne",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Produtos de Carne",
+    "description": "Essa indústria inclui entidades que matam animais, preparam carnes processadas e subprodutos de carne e renderizam e/ou refinam gordura animal, ossos e restos de carne."
+  },
+  {
+    "id": 528,
+    "label": "Fabricação de Produtos de Frutos do Mar",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Produtos de Frutos do Mar",
+    "description": "Esta indústria inclui entidades que: 1. Os frutos do mar podem (incluindo sopa);"
+  },
+  {
+    "id": 495,
+    "label": "Fabricação de Produtos de Açúcar e Confeitaria",
+    "hierarchy": "Fabricação > Fabricação de Alimentos e Bebidas > Fabricação de Produtos de Açúcar e Confeitaria",
+    "description": "Essa indústria inclui entidades que processam insumos agrícolas, como cana -de -açúcar, beterraba e cacau, para dar origem a um novo produto (açúcar ou chocolate) e aqueles que começam com açúcar e chocolate e processam -os ainda mais."
+  },
+  {
+    "id": 26,
+    "label": "Fabricação de Móveis e Artigos de Decoração",
+    "hierarchy": "Fabricação > Fabricação de Móveis e Artigos de Decoração",
+    "description": "Essa indústria inclui entidades que fabricam móveis e artigos relacionados, como colchões, persianas, armários e acessórios."
+  },
+  {
+    "id": 1080,
+    "label": "Fabricação de Móveis Domésticos e Institucionais",
+    "hierarchy": "Fabricação > Fabricação de Móveis e Artigos de Decoração > Fabricação de Móveis Domésticos e Institucionais",
+    "description": "Essa indústria inclui entidades que fabricam móveis do tipo doméstico, como sala de estar, móveis de cozinha e quarto e móveis institucionais (como edifícios públicos), como móveis para escolas, teatros e igrejas."
+  },
+  {
+    "id": 1095,
+    "label": "Fabricação de Colchões e Persianas",
+    "hierarchy": "Fabricação > Fabricação de Móveis e Artigos de Decoração > Fabricação de Colchões e Persianas",
+    "description": "Essa indústria inclui entidades que fabricam produtos relacionados a móveis, como colchões, persianas e tons."
+  },
+  {
+    "id": 1090,
+    "label": "Fabricação de Móveis e utensílios de Escritório",
+    "hierarchy": "Fabricação > Fabricação de Móveis e Artigos de Decoração > Fabricação de Móveis e utensílios de Escritório",
+    "description": "Esse setor inclui entidades que fabricam móveis de escritório e/ou escritório e armazenam acessórios em uma base ou personalizada que possam ser montados ou desmontados (como knockdown)."
+  },
+  {
+    "id": 145,
+    "label": "Fabricação de Vidro, Cerâmica e Concreto",
+    "hierarchy": "Fabricação > Fabricação de Vidro, Cerâmica e Concreto",
+    "description": "Essa indústria inclui entidades que transformam minerais não metálicos extraídos ou extraídos, como materiais de areia, cascalho, pedra, argila e refratários, em produtos para consumo intermediário ou final."
+  },
+  {
+    "id": 799,
+    "label": "Fabricação de Abrasivos e Minerais Não-Metálicos",
+    "hierarchy": "Fabricação > Fabricação de Vidro, Cerâmica e Concreto > Fabricação de Abrasivos e Minerais Não-Metálicos",
+    "description": "Essa indústria inclui entidades que fabricam produtos minerais não metálicos (exceto produtos de argila, produtos refratários, produtos de vidro, produtos de cimento e concreto, produtos e produtos de gesso, que estão em indústrias separadas)."
+  },
+  {
+    "id": 773,
+    "label": "Fabricação de Produtos de Argila e Refratários",
+    "hierarchy": "Fabricação > Fabricação de Vidro, Cerâmica e Concreto > Fabricação de Produtos de Argila e Refratários",
+    "description": "Essa indústria inclui entidades que moldam, mofo, esmalte e cerâmica de fogo, cerâmica e acessórios de encanamento e suprimentos elétricos feitos inteiramente ou parcialmente de argila ou outros materiais ou formas de cerâmica, molde, assar, queimaduras ou argila endurecem, refratários de não -clay"
+  },
+  {
+    "id": 779,
+    "label": "Fabricação de Produtos de Vidro",
+    "hierarchy": "Fabricação > Fabricação de Vidro, Cerâmica e Concreto > Fabricação de Produtos de Vidro",
+    "description": "Essa indústria inclui entidades que fabricam produtos de vidro e/ou vidro, derretendo areia de sílica ou cerveja ou de vidro comprado."
+  },
+  {
+    "id": 794,
+    "label": "Fabricação de Produtos de Cal e Gesso",
+    "hierarchy": "Fabricação > Fabricação de Vidro, Cerâmica e Concreto > Fabricação de Produtos de Cal e Gesso",
+    "description": "Essa indústria inclui entidades que fabricam cal calcíssico calcítico, calcário dolomítico ou outros materiais calcários ou produtos de gesso de fabricação."
+  },
+  {
+    "id": 616,
+    "label": "Fabricação de Produtos de Couro",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Couro",
+    "description": "Essa indústria inclui entidades que se transformam em couro, bronzeando ou curando e fabricando o couro em produtos (exceto vestuário, que está em uma indústria separada)."
+  },
+  {
+    "id": 622,
+    "label": "Fabricação de Calçados",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Couro > Fabricação de Calçados",
+    "description": "Essa indústria inclui entidades que fabricam calçados (exceto calçados de extensão ortopédica, que estão em uma indústria separada)."
+  },
+  {
+    "id": 625,
+    "label": "Fabricação de Bolsas Femininas",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Couro > Fabricação de Bolsas Femininas",
+    "description": "Esse setor inclui entidades que fabricam bolsas femininas e bolsas de qualquer material (exceto metal precioso, que está em uma indústria separada)."
+  },
+  {
+    "id": 55,
+    "label": "Fabricação de Maquinários",
+    "hierarchy": "Fabricação > Fabricação de Maquinários",
+    "description": "Esse setor inclui entidades que criam produtos finais que aplicam força mecânica, por exemplo, a aplicação de engrenagens e alavancas, para realizar o trabalho."
+  },
+  {
+    "id": 901,
+    "label": "Fabricação de Maquinários de Agricultura, Construção e Mineração",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Maquinários de Agricultura, Construção e Mineração",
+    "description": "Esta indústria inclui entidades que fabricam um ou mais dos seguintes: 1. Máquinas e equipamentos agrícolas, equipamentos de corte de energia e outros equipamentos de gramado e jardim em casa;"
+  },
+  {
+    "id": 147,
+    "label": "Fabricação de Maquinários de Automação",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Maquinários de Automação",
+    "description": "Essa indústria inclui entidades que usam sistemas de controle para máquinas, processos em fábricas e interfaces de máquina humana com intervenção humana mínima ou reduzida."
+  },
+  {
+    "id": 3247,
+    "label": "Fabricação de Robôs",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Maquinários de Automação > Fabricação de Robôs",
+    "description": "Esta indústria inclui entidades que fabricam robôs autônomos ou semi-autônomos."
+  },
+  {
+    "id": 918,
+    "label": "Fabricação de Maquinário da Indústria Comercial e de Serviços",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Maquinário da Indústria Comercial e de Serviços",
+    "description": "Esta indústria inclui entidades que fabricam máquinas da indústria comercial e de serviços, como instrumentos ópticos, equipamentos fotográficos e de fotocópia, máquinas automáticas de venda automática, lavanderia comercial e máquinas de seca, máquinas de escritório, equipamentos de manutenção automotiva (exceto a mão -de -mecânica, que estão em indústrias separadas),"
+  },
+  {
+    "id": 935,
+    "label": "Fabricação de Equipamentos para Motores e Transmissão de Energia",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Equipamentos para Motores e Transmissão de Energia",
+    "description": "Esse setor inclui entidades que fabricam turbinas, equipamentos de transmissão de energia e motores de combustão interna (exceto automotivo, gasolina e aeronaves, que estão em indústrias separadas)."
+  },
+  {
+    "id": 3241,
+    "label": "Fabricação de Equipamentos de Energia Renovável",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Equipamentos para Motores e Transmissão de Energia > Fabricação de Equipamentos de Energia Renovável",
+    "description": "Este setor inclui entidades que fabricam máquinas e equipamentos de energia renovável."
+  },
+  {
+    "id": 923,
+    "label": "Fabricação de Equipamentos HVAC e de Refrigeração",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Equipamentos HVAC e de Refrigeração",
+    "description": "Essa indústria inclui entidades que fabricam ventilação, aquecimento, ar-condicionado e equipamentos de refrigeração comercial ou industrial e freezer."
+  },
+  {
+    "id": 135,
+    "label": "Fabricação de Maquinários Industriais",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Maquinários Industriais",
+    "description": "Esta indústria inclui entidades que fabricam máquinas industriais, como máquinas de fabricação de alimentos e bebidas, máquinas de fabricação de semicondutores, serraria e máquinas de madeira (exceto o computador de mão), máquinas para fabricar produtos e produtos de papel, impressão e encadernação e equipamentos, maquinaria e têxteis e e produtos de papel e produtos, impressão e encadernação, equipamentos, têxteis e e textiles e e maquinários e equipamentos e equipamentos, fabricação de têxteis e papel e equipamentos para fabricação de papel e papel, impressão e encadernação, fabricação de têxteis e textiles e textiles e textiles e textiles e textiles e têxteis e textiles e têxteis e têxteis e equipamentos de fabricação de papel e papel, impressão e equipamento, fabricação de têxteis e e textil"
+  },
+  {
+    "id": 928,
+    "label": "Fabricação de Maquinários para Metalurgia",
+    "hierarchy": "Fabricação > Fabricação de Maquinários > Fabricação de Maquinários para Metalurgia",
+    "description": "Esta indústria inclui entidades que fabricam máquinas de metalworking, como corte de metal e metal ferramentas de máquinas;"
+  },
+  {
+    "id": 17,
+    "label": "Fabricação de Equipamentos Médicos",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos Médicos",
+    "description": "Este setor inclui entidades que fabricam equipamentos e suprimentos médicos."
+  },
+  {
+    "id": 679,
+    "label": "Fabricação de Produtos Petrolíferos e de Carvão",
+    "hierarchy": "Fabricação > Fabricação de Produtos Petrolíferos e de Carvão",
+    "description": "Essa indústria inclui entidades que transformam petróleo bruto e carvão em produtos utilizáveis, além de entidades que processam ainda mais produtos de petróleo e carvão para produzir produtos como revestimentos de asfalto e óleos lubrificantes para petróleo."
+  },
+  {
+    "id": 61,
+    "label": "Fabricação de Papel e Produtos Florestais",
+    "hierarchy": "Fabricação > Fabricação de Papel e Produtos Florestais",
+    "description": "Este setor inclui entidades que produzem produtos de papel de celulose, papel ou convertido."
+  },
+  {
+    "id": 743,
+    "label": "Fabricação de Produtos de Plástico e Borracha",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Plástico e Borracha",
+    "description": "Esse setor inclui entidades que produzem mercadorias processando materiais de plásticos e borracha crua, geralmente restringidos a produtos feitos apenas de plásticos ou borracha."
+  },
+  {
+    "id": 146,
+    "label": "Fabricação de Embalagens e Recipientes",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Plástico e Borracha > Fabricação de Embalagens e Recipientes",
+    "description": "Esta indústria inclui entidades que convertem resinas de plásticos em plásticos de embalagem (flexível) e folha de embalagens."
+  },
+  {
+    "id": 117,
+    "label": "Fabricação de Plásticos",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Plástico e Borracha > Fabricação de Plásticos",
+    "description": "Essa indústria inclui entidades que processam resinas de plásticos novos ou gastos (como reciclados) em produtos intermediários ou finais, usando processos como moldagem por compressão, moldagem por extrusão, moldagem por injeção, moldagem por sopro e fundição."
+  },
+  {
+    "id": 763,
+    "label": "Fabricação de Produtos de Borracha",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Plástico e Borracha > Fabricação de Produtos de Borracha",
+    "description": "Essa indústria inclui entidades que processam materiais de borracha naturais, sintéticos ou recuperados em produtos intermediários ou finais usando processos, como vulcanização, cimentação, moldagem, extrusão e corte de torno."
+  },
+  {
+    "id": 807,
+    "label": "Fabricação de Metais Primários",
+    "hierarchy": "Fabricação > Fabricação de Metais Primários",
+    "description": "Essa indústria inclui entidades que cheiram e/ou refinam metais ferrosos e não ferrosos de minério, porco ou sucata, usando técnicas metalúrgicas eletrometalúrgicas e outras técnicas de processo."
+  },
+  {
+    "id": 83,
+    "label": "Serviços de Impressão",
+    "hierarchy": "Fabricação > Serviços de Impressão",
+    "description": "Esta indústria inclui entidades que impressam em produtos de vestuário e têxteis, papel, metal, vidro, plásticos e outros materiais, exceto tecido (gray bens)."
+  },
+  {
+    "id": 20,
+    "label": "Fabricação de Produtos Esportivos",
+    "hierarchy": "Fabricação > Fabricação de Produtos Esportivos",
+    "description": "Esta indústria inclui entidades que fabricam produtos esportivos e esportivos (exceto vestuário e calçados)."
+  },
+  {
+    "id": 60,
+    "label": "Fabricação de têxteis",
+    "hierarchy": "Fabricação > Fabricação de têxteis",
+    "description": "Essa indústria inclui entidades que transformam uma fibra básica (natural ou sintética) em um produto, como fios ou tecido que é fabricado em itens utilizáveis, como folhas, toalhas e sacos têxteis para consumo individual ou industrial."
+  },
+  {
+    "id": 21,
+    "label": "Fabricação de Tabaco",
+    "hierarchy": "Fabricação > Fabricação de Tabaco",
+    "description": "Esse setor inclui entidades que caem e rediry de tabaco e/ou fabrica cigarros e outros produtos de tabaco."
+  },
+  {
+    "id": 1029,
+    "label": "Fabricação de Equipamentos de Transporte",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte",
+    "description": "Este setor inclui entidades que fabricam equipamentos para transportar pessoas e mercadorias."
+  },
+  {
+    "id": 52,
+    "label": "Fabricação de Componentes Aeroespaciais e Aeronáticos",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Fabricação de Componentes Aeroespaciais e Aeronáticos",
+    "description": "Esta indústria inclui entidades que: 1. Fabricular aeronaves, mísseis ou veículos espaciais completos;"
+  },
+  {
+    "id": 1,
+    "label": "Fabricação Espacial e de Defesa",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Fabricação Espacial e de Defesa",
+    "description": "Esse setor inclui entidades que fabricam mísseis guiados completos e veículos espaciais e/ou desenvolvem protótipos."
+  },
+  {
+    "id": 53,
+    "label": "Fabricação de Veículos Motorizados",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Fabricação de Veículos Motorizados",
+    "description": "Essa indústria inclui entidades que fabricam automóveis completos, veículos a motor leves e caminhões pesados (como corpo e chassi ou unibody) ou fabrica apenas chassi de veículos a motor."
+  },
+  {
+    "id": 3253,
+    "label": "Fabricação de Veículos Motorizados de Combustível Alternativo",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Fabricação de Veículos Motorizados > Fabricação de Veículos Motorizados de Combustível Alternativo",
+    "description": "Essa indústria inclui entidades que fabricam veículos automotores alimentados por combustíveis além da gasolina ou diesel, como eletricidade, gás natural, propano, hidrogênio e biocombustíveis."
+  },
+  {
+    "id": 1042,
+    "label": "Fabricação de Peças de Veículos Motorizados",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Fabricação de Peças de Veículos Motorizados",
+    "description": "Esta indústria inclui entidades que fabricam motores a gasolina de veículos automotores e peças de motor, equipamentos elétricos e eletrônicos de veículos a motor, direção de veículos a motor e componentes de suspensão (exceto molas), sistemas de freio de veículo a motor, transmissão de veículos a motor e peças de trem de energia, assento de veículo a motor e interior"
+  },
+  {
+    "id": 62,
+    "label": "Fabricação de Equipamentos Ferroviários",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Fabricação de Equipamentos Ferroviários",
+    "description": "Esta indústria inclui entidades que: 1. Fabricar e/ou reconstruir locomotivas, quadros de locomotivas e peças;"
+  },
+  {
+    "id": 58,
+    "label": "Construção Naval",
+    "hierarchy": "Fabricação > Fabricação de Equipamentos de Transporte > Construção Naval",
+    "description": "Esse setor inclui entidades que operam estaleiros ou estaleiros (como instalações de fabricação de navios ou barcos)."
+  },
+  {
+    "id": 784,
+    "label": "Fabricação de Produtos de Madeira",
+    "hierarchy": "Fabricação > Fabricação de Produtos de Madeira",
+    "description": "Essa indústria inclui entidades que fabricam produtos de madeira, como madeira, compensado, facetas, recipientes de madeira, piso de madeira, treliças de madeira, casas fabricadas (como casas móveis) e edifícios de madeira pré -fabricados."
+  },
+  {
+    "id": 332,
+    "label": "Petróleo, Gás e Mineração",
+    "hierarchy": "Petróleo, Gás e Mineração",
+    "description": "Essa indústria inclui entidades que extraem sólidos minerais que ocorrem naturalmente, como carvão e minérios;"
+  },
+  {
+    "id": 56,
+    "label": "Mineração",
+    "hierarchy": "Petróleo, Gás e Mineração > Mineração",
+    "description": "Essa indústria inclui entidades que minas, desenvolvem locais de minas e preparam minerais metálicos e minerais não metálicos, incluindo carvão."
+  },
+  {
+    "id": 341,
+    "label": "Mineração de Carvão",
+    "hierarchy": "Petróleo, Gás e Mineração > Mineração > Mineração de Carvão",
+    "description": "Esta indústria inclui entidades que: 1. Mina carvão betuminoso, antracito e linhita por mineração subterrânea, mineração de trouter, mineração de faixas, mineração de bancos de Culm e outras minerações de superfície;"
+  },
+  {
+    "id": 345,
+    "label": "Mineração de Minério de Metal",
+    "hierarchy": "Petróleo, Gás e Mineração > Mineração > Mineração de Minério de Metal",
+    "description": "Essa indústria inclui entidades que desenvolvem mineiros ou minerais metálicos de minas, e aquelas que vestem minério ou benéficas (por exemplo, esmagamento, moagem, lavagem, seca, sinterização, concentrado, calcina e lixiviação)."
+  },
+  {
+    "id": 356,
+    "label": "Mineração Mineral Não-Metálica",
+    "hierarchy": "Petróleo, Gás e Mineração > Mineração > Mineração Mineral Não-Metálica",
+    "description": "Essa indústria inclui entidades que desenvolvem mineiros de minas ou minerais não metálicos de minas ou pedrelas (exceto combustíveis, que estão em uma indústria separada)."
+  },
+  {
+    "id": 57,
+    "label": "Petróleo e Gás",
+    "hierarchy": "Petróleo, Gás e Mineração > Petróleo e Gás",
+    "description": "Este setor inclui entidades que operam e/ou desenvolvem propriedades de campo de petróleo e gás."
+  },
+  {
+    "id": 3096,
+    "label": "Extração de Gás Natural",
+    "hierarchy": "Petróleo, Gás e Mineração > Petróleo e Gás > Extração de Gás Natural",
+    "description": "Esta indústria inclui entidades que se concentram na exploração, desenvolvimento e/ou produção de gás natural a partir de poços nos quais os hidrocarbonetos fluirão inicialmente ou podem ser produzidos usando técnicas de perfuração e extração normais ou aprimoradas ou a recuperação de hidrocarbonetos líquidos do óleo e"
+  },
+  {
+    "id": 3095,
+    "label": "Extração de Petróleo",
+    "hierarchy": "Petróleo, Gás e Mineração > Petróleo e Gás > Extração de Petróleo",
+    "description": "Essa indústria inclui entidades que se concentram na exploração, desenvolvimento e/ou produção de petróleo a partir de poços nos quais os hidrocarbonetos fluirão inicialmente ou podem ser produzidos usando técnicas de perfuração e extração normais ou aprimoradas ou na produção de petróleo bruto a partir de folhões de superfície"
+  },
+  {
+    "id": 1810,
+    "label": "Serviços Profissionais",
+    "hierarchy": "Serviços Profissionais",
+    "description": "Esse setor inclui entidades que realizam atividades profissionais, científicas e técnicas para outras pessoas, incluindo aconselhamento e representação jurídicos;"
+  },
+  {
+    "id": 47,
+    "label": "Contabilidade",
+    "hierarchy": "Serviços Profissionais > Contabilidade",
+    "description": "Esse setor inclui entidades que fazem auditorias de registros contábeis, projetam sistemas de contabilidade, preparam demonstrações financeiras, desenvolvem orçamentos, preparam declarações fiscais, folha de pagamento de processos e realizam contabilidade e cobrança."
+  },
+  {
+    "id": 80,
+    "label": "Serviços de Publicidade",
+    "hierarchy": "Serviços Profissionais > Serviços de Publicidade",
+    "description": "Esse setor inclui entidades que fornecem publicidade, relações públicas e serviços relacionados, como a compra de mídia, representação independente da mídia, anúncios ao ar livre, publicidade de mala direta e serviços de distribuição de materiais de anúncio."
+  },
+  {
+    "id": 148,
+    "label": "Serviços de Relações Governamentais",
+    "hierarchy": "Serviços Profissionais > Serviços de Publicidade > Serviços de Relações Governamentais",
+    "description": "Esse setor inclui entidades destinadas a impactar as políticas públicas em todos os níveis de governança (local, regional, nacional e internacional), a fim de promover os interesses de uma organização ou grupo de organizações específicas."
+  },
+  {
+    "id": 98,
+    "label": "Serviços de Relações Públicas e Comunicações",
+    "hierarchy": "Serviços Profissionais > Serviços de Publicidade > Serviços de Relações Públicas e Comunicações",
+    "description": "Esse setor inclui entidades que projetam e implementam campanhas de relações públicas, como campanhas para promover os interesses e a imagem de seus clientes."
+  },
+  {
+    "id": 97,
+    "label": "Pesquisa de Mercado",
+    "hierarchy": "Serviços Profissionais > Serviços de Publicidade > Pesquisa de Mercado",
+    "description": "Esse setor inclui entidades que se reúnem sistematicamente, registram, tabulam e apresentam dados de marketing e opinião pública."
+  },
+  {
+    "id": 50,
+    "label": "Arquitetura e Planejamento",
+    "hierarchy": "Serviços Profissionais > Arquitetura e Planejamento",
+    "description": "Esta indústria inclui entidades que planejam e projetam edifícios e estruturas residenciais, institucionais, de lazer, comerciais e industriais, aplicando conhecimento de projeto, procedimentos de construção, regulamentos de zoneamento, códigos de construção e materiais de construção."
+  },
+  {
+    "id": 3246,
+    "label": "Arquitetura e Design Acessíveis",
+    "hierarchy": "Serviços Profissionais > Arquitetura e Planejamento > Arquitetura e Design Acessíveis",
+    "description": "Essa indústria inclui entidades que planejam e projetam edifícios e estruturas residenciais, institucionais, de lazer, comerciais e industriais que podem ser acessadas, compreendidas e usadas por todas as pessoas, independentemente de sua capacidade, incapacidade ou comprometimento."
+  },
+  {
+    "id": 11,
+    "label": "Consultoria e Serviços de Negócios",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios",
+    "description": "Esse setor inclui entidades que fornecem consultoria e assistência a empresas e outras organizações em questões administrativas e operacionais, como planejamento estratégico e organizacional;"
+  },
+  {
+    "id": 86,
+    "label": "Serviços Ambientais",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios > Serviços Ambientais",
+    "description": "Esse setor inclui entidades que fornecem consultoria e assistência a empresas e organizações sobre questões ambientais, como o controle da contaminação ambiental de poluentes, substâncias tóxicas e materiais perigosos."
+  },
+  {
+    "id": 137,
+    "label": "Serviços de Recursos Humanos",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios > Serviços de Recursos Humanos",
+    "description": "Esse setor inclui entidades que fornecem consultoria e assistência a empresas e organizações em: 1. Políticas, práticas e procedimentos de recursos humanos e de pessoal;"
+  },
+  {
+    "id": 1862,
+    "label": "Serviços de Marketing",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios > Serviços de Marketing",
+    "description": "Esse setor inclui entidades que fornecem consultoria operacional e assistência a empresas e outras organizações sobre questões de marketing, como desenvolver objetivos e políticas de marketing, previsão de vendas, desenvolvimento e preços de novos produtos, licenciamento e planejamento de franquias e planejamento e estratégia de marketing."
+  },
+  {
+    "id": 2401,
+    "label": "Consultoria de Operações",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios > Consultoria de Operações",
+    "description": "Esse setor inclui entidades que fornecem consultoria operacional e assistência a empresas e outras organizações em: 1. Melhoria das operações de fabricação;"
+  },
+  {
+    "id": 123,
+    "label": "Consultoria de Terceirização e Offshoring",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios > Consultoria de Terceirização e Offshoring",
+    "description": "Esse setor inclui entidades que fornecem conselhos operacionais sobre a prática de terceirização e/ou offshoring."
+  },
+  {
+    "id": 102,
+    "label": "Serviços de Gerenciamento Estratégico",
+    "hierarchy": "Serviços Profissionais > Consultoria e Serviços de Negócios > Serviços de Gerenciamento Estratégico",
+    "description": "Esse setor inclui entidades que aconselham sobre questões administrativas e de gerenciamento, como planejamento financeiro e gerenciamento de ativos, gerenciamento de registros, planejamento de escritórios, planejamento estratégico e organizacional, seleção de sites, novas empresas iniciantes e melhoria de processos de negócios."
+  },
+  {
+    "id": 99,
+    "label": "Serviços de Design",
+    "hierarchy": "Serviços Profissionais > Serviços de Design",
+    "description": "Este setor inclui entidades que fornecem Serviços de Design especializados (exceto o design de sistemas de arquitetura, engenharia e computadores, que estão em indústrias separadas)."
+  },
+  {
+    "id": 140,
+    "label": "Design Gráfico",
+    "hierarchy": "Serviços Profissionais > Serviços de Design > Design Gráfico",
+    "description": "Essa indústria inclui entidades que planejam, projetam e gerenciam a produção de comunicação visual para transmitir mensagens ou conceitos específicos, esclarecer informações complexas ou projetos visuais, como no design de materiais impressos, embalagens, publicidade, sistemas de sinalização e logotipos"
+  },
+  {
+    "id": 3256,
+    "label": "Design Regenerativo",
+    "hierarchy": "Serviços Profissionais > Serviços de Design > Design Regenerativo",
+    "description": "Esse setor inclui entidades que aplicam abordagens de design especializadas para projetar edifícios, produtos e sistemas que são ecologicamente restauradores e inerentemente benéficos para o meio ambiente."
+  },
+  {
+    "id": 3126,
+    "label": "Design de Interiores",
+    "hierarchy": "Serviços Profissionais > Serviços de Design > Design de Interiores",
+    "description": "Esta indústria inclui entidades que planejam, projetam e administram projetos em espaços internos para atender às necessidades físicas e estéticas das pessoas que os usam, levando em consideração códigos de construção, regulamentos de saúde e segurança, padrões de tráfego e planejamento de piso, necessidades mecânicas e elétricas e e as necessidades mecânicas e elétricas e"
+  },
+  {
+    "id": 3242,
+    "label": "Serviços de Engenharia",
+    "hierarchy": "Serviços Profissionais > Serviços de Engenharia",
+    "description": "Essa indústria inclui entidades que aplicam leis físicas e princípios de engenharia no projeto, desenvolvimento e utilização de máquinas, materiais, instrumentos, estruturas, processos e sistemas."
+  },
+  {
+    "id": 3248,
+    "label": "Engenharia de Robótica",
+    "hierarchy": "Serviços Profissionais > Serviços de Engenharia > Engenharia de Robótica",
+    "description": "Esse setor inclui entidades que projetam robôs autônomos ou semi-autônomos usando conhecimento de várias disciplinas de engenharia, como engenharia de computadores, engenharia mecânica, engenharia elétrica, bioengenharia, engenharia de controle e engenharia de software."
+  },
+  {
+    "id": 3249,
+    "label": "Serviços de Levantamento e Mapeamento",
+    "hierarchy": "Serviços Profissionais > Serviços de Engenharia > Serviços de Levantamento e Mapeamento",
+    "description": "Esse setor inclui entidades que fornecem serviços de levantamento e mapeamento, como serviços de levantamento e mapeamento cartográficos, topográficos e geofísicos."
+  },
+  {
+    "id": 96,
+    "label": "Serviços de TI e Consultoria de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI",
+    "description": "Este setor inclui entidades que: 1. Escreva, modifique, teste e suporte software para atender às necessidades de um cliente;"
+  },
+  {
+    "id": 118,
+    "label": "Segurança de Redes e Computadores",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Segurança de Redes e Computadores",
+    "description": "Esse setor inclui entidades que fornecem serviços e tecnologias para proteger os sistemas de computador contra acesso não autorizado, como roubo ou dano a hardware, software ou dados eletrônicos, incluindo a interrupção ou desvio de direção dos serviços que eles prestam."
+  },
+  {
+    "id": 3244,
+    "label": "Serviços de Acessibilidade Digital",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Serviços de Acessibilidade Digital",
+    "description": "Esse setor inclui entidades que fornecem serviços e tecnologias que oferecem suporte à acessibilidade digital, como testes de acessibilidade digital, serviços de auditoria e consultoria."
+  },
+  {
+    "id": 3102,
+    "label": "Desenvolvimento de Software Personalizado de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Desenvolvimento de Software Personalizado de TI",
+    "description": "Esse setor inclui entidades que se concentram na criação, modificação, teste e suporte de software para atender às necessidades de um cliente específico."
+  },
+  {
+    "id": 3106,
+    "label": "Serviços de Dados do Sistema de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Serviços de Dados do Sistema de TI",
+    "description": "Este setor inclui entidades que fornecem experiência humana para coleta de dados, anotação de dados, revisão de dados, normalização de dados e entrada de dados e outros serviços de dados manuais ou semi-automatizados."
+  },
+  {
+    "id": 1855,
+    "label": "Serviços de Design de Sistemas de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Serviços de Design de Sistemas de TI",
+    "description": "Esse setor inclui entidades que planejam e projetam sistemas de computador que integram hardware de computador, software e tecnologias de comunicação."
+  },
+  {
+    "id": 3104,
+    "label": "Instalação e Descarte de Sistemas de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Instalação e Descarte de Sistemas de TI",
+    "description": "Esse setor inclui entidades que fornecem serviços de TI relacionados à instalação e implantação de novos sistemas de TI, serviços de recuperação de desastres e/ou desinstalação e descarte de sistemas ou componentes de TI não necessários mais necessários."
+  },
+  {
+    "id": 3103,
+    "label": "Operação e Manutenção de Sistemas de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Operação e Manutenção de Sistemas de TI",
+    "description": "Esse setor inclui entidades que gerenciam e/ou operam os sistemas de computador e/ou instalações de processamento de dados dos clientes (no local ou remoto)."
+  },
+  {
+    "id": 3107,
+    "label": "Testes e Avaliações de Sistemas de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Testes e Avaliações de Sistemas de TI",
+    "description": "Esse setor inclui entidades que fornecem treinamento e avaliação de sistemas e componentes de TI."
+  },
+  {
+    "id": 3105,
+    "label": "Treinamento e Suporte para Sistemas de TI",
+    "hierarchy": "Serviços Profissionais > Serviços de TI e Consultoria de TI > Treinamento e Suporte para Sistemas de TI",
+    "description": "Esse setor inclui entidades que fornecem treinamento e suporte técnico para usuários e mantenedores de sistemas de TI."
+  },
+  {
+    "id": 10,
+    "label": "Serviços Jurídicos",
+    "hierarchy": "Serviços Profissionais > Serviços Jurídicos",
+    "description": "Esse setor inclui entidades que oferecem serviços jurídicos, como os oferecidos por escritórios de advogados, escritórios de notários, resumo de títulos e escritórios de liquidação e serviços paralegais."
+  },
+  {
+    "id": 120,
+    "label": "Resolução Alternativa de Disputas",
+    "hierarchy": "Serviços Profissionais > Serviços Jurídicos > Resolução Alternativa de Disputas",
+    "description": "Esse setor inclui entidades (exceto escritórios de advogados, advogados e paralegais, que estão em indústrias separadas) que fornecem serviços de arbitragem e conciliação."
+  },
+  {
+    "id": 9,
+    "label": "Advocacia",
+    "hierarchy": "Serviços Profissionais > Serviços Jurídicos > Advocacia",
+    "description": "Este setor inclui escritórios de advogados ou advogados (como conselheiros-atos) que fornecem experiência em um intervalo ou em áreas específicas da lei, como direito penal, direito corporativo, direito familiar e imobiliário, direito de patentes, direito imobiliário"
+  },
+  {
+    "id": 136,
+    "label": "Fotografia",
+    "hierarchy": "Serviços Profissionais > Fotografia",
+    "description": "Este setor inclui entidades que fornecem serviços de fotografia imobiliária, de vídeo ou digital."
+  },
+  {
+    "id": 70,
+    "label": "Serviços de Pesquisa",
+    "hierarchy": "Serviços Profissionais > Serviços de Pesquisa",
+    "description": "Esse setor inclui entidades que conduzem investigação original realizada de forma sistemática para obter novos conhecimentos (pesquisa) e/ou aplicar resultados de pesquisas ou outro conhecimento científico para criar produtos ou processos novos ou significativamente aprimorados (desenvolvimento experimental)."
+  },
+  {
+    "id": 12,
+    "label": "Pesquisa de Biotecnologia",
+    "hierarchy": "Serviços Profissionais > Serviços de Pesquisa > Pesquisa de Biotecnologia",
+    "description": "Esta indústria inclui entidades que conduzem pesquisa de biotecnologia (exceto nanobiotecnologia) e desenvolvimento experimental."
+  },
+  {
+    "id": 114,
+    "label": "Pesquisa de Nanotecnologia",
+    "hierarchy": "Serviços Profissionais > Serviços de Pesquisa > Pesquisa de Nanotecnologia",
+    "description": "Esta indústria inclui entidades que conduzem pesquisa de nanotecnologia e desenvolvimento experimental."
+  },
+  {
+    "id": 130,
+    "label": "Grupos de Reflexão",
+    "hierarchy": "Serviços Profissionais > Serviços de Pesquisa > Grupos de Reflexão",
+    "description": "Essa indústria inclui entidades que conduzem pesquisas e análises em sociologia, psicologia, economia e outros campos em ciências sociais e humanidades."
+  },
+  {
+    "id": 3243,
+    "label": "Serviços para Energia Renovável",
+    "hierarchy": "Serviços Profissionais > Serviços para Energia Renovável",
+    "description": "Esse setor inclui entidades que prestam serviços para soluções de energia renovável, como instalação de painel solar e serviços de consultoria de energia renovável."
+  },
+  {
+    "id": 16,
+    "label": "Serviços Veterinários",
+    "hierarchy": "Serviços Profissionais > Serviços Veterinários",
+    "description": "Esta indústria inclui entidades de profissionais veterinários licenciados que praticam medicina veterinária, odontologia ou cirurgia para animais."
+  },
+  {
+    "id": 1757,
+    "label": "Serviços Imobiliários e de Aluguel de Equipamentos",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos",
+    "description": "Esse setor inclui entidades que alugam, arrendam ou permitem o uso de ativos tangíveis ou intangíveis e entidades que prestam serviços relacionados, como gerenciar imóveis para outros, vender, alugar e/ou comprar imóveis para outros e avaliar imóveis."
+  },
+  {
+    "id": 1779,
+    "label": "Serviços de Aluguel de Equipamentos",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Serviços de Aluguel de Equipamentos",
+    "description": "Esse setor inclui entidades que fornecem uma ampla variedade de bens tangíveis, como automóveis, computadores, bens de consumo e máquinas e equipamentos industriais, para clientes em troca de um pagamento periódico de aluguel ou arrendamento."
+  },
+  {
+    "id": 1798,
+    "label": "Aluguel de Equipamentos Comerciais e Industriais",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Serviços de Aluguel de Equipamentos > Aluguel de Equipamentos Comerciais e Industriais",
+    "description": "Esse setor inclui entidades que alugam ou arrendam máquinas e equipamentos do tipo comercial e do tipo industrial-equipamentos de capital ou do tipo investimento que os clientes usam em suas operações comerciais."
+  },
+  {
+    "id": 1786,
+    "label": "Aluguel de Bens de Consumo",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Serviços de Aluguel de Equipamentos > Aluguel de Bens de Consumo",
+    "description": "Esse setor inclui entidades que alugam produtos pessoais e do tipo doméstico, geralmente aluguel de curto prazo, embora, em alguns casos, as mercadorias possam ser alugadas por períodos mais longos."
+  },
+  {
+    "id": 44,
+    "label": "Imobiliária",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Imobiliária",
+    "description": "Este setor inclui entidades que alugam ou arrendam imóveis a outras pessoas;"
+  },
+  {
+    "id": 128,
+    "label": "Aluguel de Imóveis Não-Residenciais",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Imobiliária > Aluguel de Imóveis Não-Residenciais",
+    "description": "Essa indústria inclui entidades que atuam como arrendadores de edifícios (exceto mini armazéns e unidades de auto-armazenamento, que estão em indústrias separadas) que não são usadas como residências ou habitações."
+  },
+  {
+    "id": 1759,
+    "label": "Aluguel de Imóveis Residenciais",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Imobiliária > Aluguel de Imóveis Residenciais",
+    "description": "Essa indústria inclui entidades que atuam como arrendatores de edifícios e residências residenciais."
+  },
+  {
+    "id": 1770,
+    "label": "Agentes Imobiliários e Corretores",
+    "hierarchy": "Serviços Imobiliários e de Aluguel de Equipamentos > Imobiliária > Agentes Imobiliários e Corretores",
+    "description": "Essa indústria inclui entidades que atuam principalmente como agentes e/ou corretores na venda de imóveis para outros;"
+  },
+  {
+    "id": 27,
+    "label": "Varejo",
+    "hierarchy": "Varejo",
+    "description": "Esse setor inclui entidades que o varejo de mercadorias geralmente em pequenas quantidades para o público em geral e prestam serviços incidentais à venda da mercadoria."
+  },
+  {
+    "id": 1339,
+    "label": "Varejo de Alimentos e Bebidas",
+    "hierarchy": "Varejo > Varejo de Alimentos e Bebidas",
+    "description": "Esse setor inclui entidades que variam principalmente de mercadorias de alimentos e/ou bebidas de locais fixo de ponto de venda e garantem o armazenamento adequado e as condições sanitárias exigidas pela autoridade regulatória."
+  },
+  {
+    "id": 22,
+    "label": "Mercearias de Varejo",
+    "hierarchy": "Varejo > Varejo de Alimentos e Bebidas > Mercearias de Varejo",
+    "description": "Essa indústria inclui entidades que variam de uma linha geral de alimentos, como alimentos enlatados e congelados;"
+  },
+  {
+    "id": 1445,
+    "label": "Varejo Online e por Correio",
+    "hierarchy": "Varejo > Varejo Online e por Correio",
+    "description": "Este setor inclui entidades que criam e operam mercados apenas on-line e/ou baseados em correio para a venda de mercadorias."
+  },
+  {
+    "id": 19,
+    "label": "Vestuário e Moda de Varejo",
+    "hierarchy": "Varejo > Varejo de Vestuário e Moda",
+    "description": "Esse setor inclui entidades que varejo de novas roupas e acessórios para roupas de locais fixo de ponto de venda."
+  },
+  {
+    "id": 1319,
+    "label": "Varejo de Eletrodomésticos, Equipamentos Elétricos e Eletrônicos",
+    "hierarchy": "Varejo > Varejo de Eletrodomésticos, Equipamentos Elétricos e Eletrônicos",
+    "description": "Esse setor inclui entidades que variam principalmente de novos eletrônicos e aparelhos, incluindo aparelhos de aquecimento e refrigeração, de locais no ponto de venda e também podem oferecer manutenção e reparo dos equipamentos e aparelhos eletrônicos."
+  },
+  {
+    "id": 3186,
+    "label": "Varejo de Revendedores de Arte",
+    "hierarchy": "Varejo > Varejo de Revendedores de Arte",
+    "description": "Esta indústria inclui entidades que varejo de obras de arte originais e de edição limitada."
+  },
+  {
+    "id": 111,
+    "label": "Varejo de Materiais de Arte",
+    "hierarchy": "Varejo > Varejo de Materiais de Arte",
+    "description": "Esta indústria inclui entidades que materiais de arte e suprimentos de arte."
+  },
+  {
+    "id": 1409,
+    "label": "Varejo de Livros e Notícias Impressas",
+    "hierarchy": "Varejo > Varejo de Livros e Notícias Impressas",
+    "description": "Esse setor inclui entidades que variam principalmente de novos livros, jornais, revistas e outros periódicos."
+  },
+  {
+    "id": 1324,
+    "label": "Varejo de Materiais de Construção e Equipamentos de Jardim",
+    "hierarchy": "Varejo > Varejo de Materiais de Construção e Equipamentos de Jardim",
+    "description": "Esse setor inclui entidades que variam principalmente novos materiais de construção e equipamentos e suprimentos de jardim, incluindo acessórios de hardware e encanamento, de locais fixo de ponto de venda."
+  },
+  {
+    "id": 1423,
+    "label": "Varejo de Floristas",
+    "hierarchy": "Varejo > Varejo de Floristas",
+    "description": "Esse setor inclui entidades que principalmente varejo de flores, arranjos florais e vasos de plantas compradas de outras pessoas."
+  },
+  {
+    "id": 1309,
+    "label": "Varejo de Móveis e Artigos de Decoração",
+    "hierarchy": "Varejo > Varejo de Móveis e Artigos de Decoração",
+    "description": "Esse setor inclui entidades que variam principalmente de móveis e móveis domésticos de locais fixo de ponto de venda e muitos oferecem serviços de decoração de interiores, além da venda de produtos."
+  },
+  {
+    "id": 1370,
+    "label": "Varejo de Gasolina",
+    "hierarchy": "Varejo > Varejo de Gasolina",
+    "description": "Esse setor inclui entidades que principalmente varejo de combustíveis automotivos (por exemplo, gasolina, diesel, gasóleo, combustíveis alternativos) e óleos automotivos ou vendem esses produtos em combinação com itens de loja de conveniência."
+  },
+  {
+    "id": 1359,
+    "label": "Varejo de Produtos de Saúde e Cuidados Pessoais",
+    "hierarchy": "Varejo > Varejo de Produtos de Saúde e Cuidados Pessoais",
+    "description": "Esse setor inclui entidades que principalmente varejo de saúde e cuidados pessoais de mercadorias de locais fixo de ponto de venda e podem oferecer serviços relacionados ao varejo, aconselhamento de clientes e/ou ajustar o produto vendido às necessidades do cliente."
+  },
+  {
+    "id": 3250,
+    "label": "Varejo de Farmácias",
+    "hierarchy": "Varejo > Varejo de Produtos de Saúde e Cuidados Pessoais > Varejo de Farmácias",
+    "description": "Esse setor inclui entidades que medicamentos e medicamentos sem receita médica ou sem receita médica."
+  },
+  {
+    "id": 143,
+    "label": "Varejo de Artigos de Luxo e Jóias",
+    "hierarchy": "Varejo > Varejo de Artigos de Luxo e Jóias",
+    "description": "Este setor inclui entidades que o varejo um ou mais dos seguintes itens: 1. Novas jóias (exceto as jóias);"
+  },
+  {
+    "id": 1292,
+    "label": "Varejo de Veículos Motorizados",
+    "hierarchy": "Varejo > Varejo de Veículos Motorizados",
+    "description": "Esse setor inclui entidades que principalmente veículos a motor e peças de varejo de locais fixo de ponto de venda e também fornecem serviços de reparo e manutenção para veículos."
+  },
+  {
+    "id": 1407,
+    "label": "Varejo de Instrumentos Musicais",
+    "hierarchy": "Varejo > Varejo de Instrumentos Musicais",
+    "description": "Esta indústria inclui entidades que variam principalmente novos instrumentos musicais, partituras e suprimentos relacionados;"
+  },
+  {
+    "id": 138,
+    "label": "Varejo de Equipamentos de Escritório",
+    "hierarchy": "Varejo > Varejo de Equipamentos de Escritório",
+    "description": "Esse setor inclui entidades que equipamentos de escritório de varejo, como impressoras, copiadoras e outras máquinas gerais de escritório."
+  },
+  {
+    "id": 1424,
+    "label": "Varejo de Artigos de Escritório e Presentes",
+    "hierarchy": "Varejo > Varejo de Artigos de Escritório e Presentes",
+    "description": "Esse setor inclui entidades que variam principalmente novos material de escritório, artigos de papelaria, presentes, mercadorias de novidades e lembranças."
+  },
+  {
+    "id": 1431,
+    "label": "Varejo de Materiais Recicláveis e Mercadorias Usadas",
+    "hierarchy": "Varejo > Varejo de Materiais Recicláveis e Mercadorias Usadas",
+    "description": "Esse setor inclui entidades que principalmente varejo usavam mercadorias, antiguidades e produtos de segunda mão (exceto veículos a motor, como automóveis, trailers, motocicletas e barcos; peças de veículos a motor; pneus; e casas móveis, que estão em indústrias separadas)."
+  },
+  {
+    "id": 1594,
+    "label": "Tecnologia, Informação e Mídia",
+    "hierarchy": "Tecnologia, Informação e Mídia",
+    "description": "Esse setor inclui entidades que produzem produtos de tecnologia, como análise de software e dados, e fornecem os meios para transmitir ou distribuir esses produtos."
+  },
+  {
+    "id": 3133,
+    "label": "Mídia e Telecomunicações",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações",
+    "description": "Esse setor inclui entidades que fornecem telecomunicações e serviços relacionados e produção e distribuição de mídia, incluindo mídia de transmissão, filmes, gravações de som e animação."
+  },
+  {
+    "id": 82,
+    "label": "Publicação de Livros e Periódicos",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Publicação de Livros e Periódicos",
+    "description": "Esse setor inclui entidades que publicam jornais, revistas, outros periódicos e livros, além de diretórios e listas de discussão."
+  },
+  {
+    "id": 1602,
+    "label": "Publicação de Livros",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Publicação de Livros e Periódicos > Publicação de Livros",
+    "description": "Esta indústria inclui entidades conhecidas como editores de livros que realizam atividades de design, edição e marketing necessárias para produzir e distribuir livros, em formulário de impressão, eletrônico ou áudio."
+  },
+  {
+    "id": 81,
+    "label": "Publicação de Jornais",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Publicação de Livros e Periódicos > Publicação de Jornais",
+    "description": "Este setor inclui entidades conhecidas como editores de jornais."
+  },
+  {
+    "id": 1600,
+    "label": "Publicação de Periódicos",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Publicação de Livros e Periódicos > Publicação de Periódicos",
+    "description": "Essa indústria inclui entidades conhecidas como editores de revistas ou periódicos que realizam as operações necessárias para produzir e distribuir revistas e outros periódicos, como reunir, escrever e editar artigos, e vender e preparar anúncios e pode ser publicada revistas e outros periódicos na impressão"
+  },
+  {
+    "id": 36,
+    "label": "Produção e Distribuição de Mídia de Transmissão",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Produção e Distribuição de Mídia de Transmissão",
+    "description": "Esse setor inclui entidades que criam ou licenciam conteúdo de rádio ou televisão, além de distribuí -lo ou transmitir."
+  },
+  {
+    "id": 1641,
+    "label": "Programação à Cabo e Satélite",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Produção e Distribuição de Mídia de Transmissão > Programação à Cabo e Satélite",
+    "description": "Esse setor inclui entidades que operam estúdios e instalações para a transmissão de programas em uma base de assinatura ou taxa, que geralmente são entregues a terceiros, como sistemas de cabo ou sistemas de satélite direta para casa, para transmissão para os espectadores."
+  },
+  {
+    "id": 1633,
+    "label": "Transmissão de Rádio e Televisão",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Produção e Distribuição de Mídia de Transmissão > Transmissão de Rádio e Televisão",
+    "description": "Esse setor inclui entidades que operam estúdios de transmissão e instalações para entrega de ar ou satélite de programas de rádio e televisão e geralmente geram receitas da venda de tempo do ar para anunciantes, de doações e subsídios ou da venda de programas."
+  },
+  {
+    "id": 35,
+    "label": "Filmes, Vídeos e Som",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Filmes, Vídeos e Som",
+    "description": "Essa indústria inclui entidades que produzem e distribuem principalmente filmes, vídeos e gravações de som."
+  },
+  {
+    "id": 127,
+    "label": "Animação e Pós-produção",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Filmes, Vídeos e Som > Animação e Pós-produção",
+    "description": "Esse setor inclui entidades que fornecem serviços especializados de pós -produção de filmes ou vídeos, como edição, transferências de filmes/fitas, legenda, créditos, legendas fechadas e animação e efeitos especiais."
+  },
+  {
+    "id": 126,
+    "label": "Produção da Mídia",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Filmes, Vídeos e Som > Produção de Mídia",
+    "description": "Este setor inclui entidades que produzem conteúdo multimídia."
+  },
+  {
+    "id": 1611,
+    "label": "Filmes e Gravação de Som",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Filmes, Vídeos e Som > Filmes e Gravação de Som",
+    "description": "Essa indústria inclui entidades que produzem e distribuem principalmente filmes e gravações de som."
+  },
+  {
+    "id": 1623,
+    "label": "Gravação de Som",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Filmes, Vídeos e Som > Filmes e Gravação de Som > Gravação de Som",
+    "description": "Essa indústria inclui entidades que produzem e distribuem principalmente gravações musicais, publicam música ou fornecem gravação de som e serviços relacionados."
+  },
+  {
+    "id": 1625,
+    "label": "Publicação de Partituras",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Filmes, Vídeos e Som > Publicação de Partituras",
+    "description": "Esse setor inclui entidades que adquirem e registram principalmente direitos autorais para composições musicais de acordo com a lei e promovendo e autorizando o uso dessas composições em gravações, rádio, televisão, filmes, apresentações ao vivo, impressão ou outras mídias."
+  },
+  {
+    "id": 8,
+    "label": "Telecomunicações",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Telecomunicações",
+    "description": "Esse setor inclui entidades que fornecem telecomunicações e serviços relacionados (por exemplo, telefonia, incluindo protocolo de voz sobre a Internet (VoIP); serviços de distribuição de televisão a cabo e satélite; acesso à Internet; e serviços de revenda de telecomunicações)."
+  },
+  {
+    "id": 1649,
+    "label": "Telecomunicações de Satélite",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Telecomunicações > Telecomunicações de Satélite",
+    "description": "Esse setor inclui entidades que fornecem serviços de telecomunicações para outras entidades nas indústrias de telecomunicações e transmissão, encaminhando e recebendo sinais de comunicação por meio de um sistema de satélites ou revendendo telecomunicações por satélite."
+  },
+  {
+    "id": 1644,
+    "label": "Operadoras de Telecomunicações",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Telecomunicações > Operadoras de Telecomunicações",
+    "description": "Esse setor inclui entidades que operam, mantêm e/ou fornecem acesso a instalações e infraestrutura de comutação e transmissão que possuem e/ou arrendam para a transmissão de voz, dados, texto, som e vídeo usando redes de telecomunicações sem fio e sem fio."
+  },
+  {
+    "id": 119,
+    "label": "Serviços Sem Fio",
+    "hierarchy": "Tecnologia, Informação e Mídia > Mídia e Telecomunicações > Telecomunicações > Serviços Sem Fio",
+    "description": "Esse setor inclui entidades que operam e mantêm instalações de comutação e transmissão para fornecer comunicações por meio das ondas aéreas, como serviços de telefone celular, serviços de paginação, acesso à Internet sem fio e serviços de vídeo sem fio."
+  },
+  {
+    "id": 6,
+    "label": "Tecnologia, Informação e Internet",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet",
+    "description": "Esse setor inclui entidades que publicam software de computador, fornecem Infraestrutura e Análise de Dados, fornecem plataformas baseadas na Web (incluindo plataformas de mercado e plataformas de mídia social e serviços de streaming de mídia) e fornecem serviços de informação, incluindo publicação da Internet e bibliotecas."
+  },
+  {
+    "id": 2458,
+    "label": "Infraestrutura e Análise de Dados",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Infraestrutura e Análise de Dados",
+    "description": "Esse setor inclui entidades que fornecem infraestrutura para hospedagem, incluindo hospedagem na web ou aplicativos, serviços de streaming e instalações de mainframe de compartilhamento de tempo em geral para os clientes, ou eles fornecem serviços de processamento de dados, entrada de dados ou análise de dados."
+  },
+  {
+    "id": 3134,
+    "label": "Serviços de Blockchain",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Infraestrutura e Análise de Dados > Serviços de Blockchain",
+    "description": "Esse setor inclui entidades que fornecem infraestrutura para o gerenciamento de ativos digitais descentralizados, como criptomoeda e tokens não fungíveis (NFTs)."
+  },
+  {
+    "id": 3128,
+    "label": "Plataformas de Inteligência de Negócios",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Infraestrutura e Análise de Dados > Plataformas de Inteligência de Negócios",
+    "description": "Esse setor inclui entidades que fornecem conteúdo, dados, serviços e/ou hardware de computador para coletar ou distribuir informações especificamente sobre mercados e atividades comerciais."
+  },
+  {
+    "id": 3252,
+    "label": "Dados e Análises Climáticas",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Infraestrutura e Análise de Dados > Dados e Análises Climáticas",
+    "description": "Esse setor inclui entidades que coletam, analisam e interpretam dados relacionados ao clima da Terra."
+  },
+  {
+    "id": 84,
+    "label": "Serviços de Informação",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação",
+    "description": "Este setor inclui entidades que fornecem informações, armazenam e fornecem acesso a informações, pesquisam e recuperem informações ou operam sites da Web que usam mecanismos de pesquisa para permitir a pesquisa na Internet."
+  },
+  {
+    "id": 3132,
+    "label": "Publicação na Internet",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação > Publicação na Internet",
+    "description": "Este setor inclui entidades que publicam e/ou transmitem conteúdo na Internet exclusivamente."
+  },
+  {
+    "id": 3129,
+    "label": "Conteúdo Comercial",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação > Publicação na Internet > Conteúdo Comercial",
+    "description": "Esse setor inclui entidades que fornecem notícias e conteúdo sobre mercados e atividades de negócios."
+  },
+  {
+    "id": 113,
+    "label": "Mídia de Áudio e Vídeo Online",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação > Publicação na Internet > Mídia de Áudio e Vídeo Online",
+    "description": "Este setor inclui entidades que publicam e/ou transmitem conteúdo na Internet exclusivamente."
+  },
+  {
+    "id": 3124,
+    "label": "Notícias na Internet",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação > Publicação na Internet > Mídia de Áudio e Vídeo Online > Notícias na Internet",
+    "description": "Este setor inclui entidades que publicam e/ou transmitem conteúdo de notícias na Internet exclusivamente ou operam sites da Web que usam um mecanismo de pesquisa para gerar e manter bancos de dados extensos de notícias em um formato facilmente pesquisável e não fornecem versões tradicionais (não internet)"
+  },
+  {
+    "id": 85,
+    "label": "Bibliotecas",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação > Bibliotecas",
+    "description": "Este setor inclui entidades que fornecem serviços de biblioteca ou arquivo."
+  },
+  {
+    "id": 3125,
+    "label": "Blogs",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Serviços de Informação > Publicação na Internet > Blogs",
+    "description": "Este setor inclui entidades que produzem conteúdo para a Internet: blogs textuais ou de vídeo."
+  },
+  {
+    "id": 1285,
+    "label": "Plataformas de Marketplace na Internet",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Plataformas de Marketplace na Internet",
+    "description": "Este setor inclui entidades que fornecem uma plataforma baseada na Web para a compra e venda de mercadorias de propriedade de outras pessoas ou como um mercado que cria uma oportunidade de negociação entre duas entidades ou partes (por exemplo, plataformas correspondentes), geralmente com base em taxa ou comissão"
+  },
+  {
+    "id": 3127,
+    "label": "Plataformas de Redes Sociais",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Plataformas de Redes Sociais",
+    "description": "Esse setor inclui entidades que prestam serviços e infraestrutura para redes sociais, principalmente pela Internet."
+  },
+  {
+    "id": 4,
+    "label": "Desenvolvimento de Software",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software",
+    "description": "Este setor inclui entidades que publicam software de computador e executam operações necessárias para produção e distribuição, como design de design, documentação, instalação e serviços de suporte."
+  },
+  {
+    "id": 109,
+    "label": "Jogos de Computador",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Jogos de Computador",
+    "description": "Esse setor inclui entidades que produzem software voltado para o usuário para jogos em diferentes plataformas."
+  },
+  {
+    "id": 3131,
+    "label": "Aplicativos para Jogos Móveis",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Jogos de Computador > Aplicativos para Jogos Móveis",
+    "description": "Esse setor inclui entidades que produzem software voltado para o usuário para jogos em plataformas móveis."
+  },
+  {
+    "id": 5,
+    "label": "Produtos de Redes de Computadores",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Produtos de Redes de Computadores",
+    "description": "Esse setor inclui entidades que produzem software que gerencia ou é executado em coleções de computadores conectados."
+  },
+  {
+    "id": 3130,
+    "label": "Produtos de Software de Segurança de Dados",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Produtos de Software de Segurança de Dados",
+    "description": "Esse setor inclui entidades que produzem software para garantir a segurança dos dados e sistemas de computação."
+  },
+  {
+    "id": 3101,
+    "label": "Produtos de Software de Computação em Desktop",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Produtos de Software de Computação em Desktop",
+    "description": "Esse setor inclui entidades que produzem software que é executado em computadores de desktop ou laptop."
+  },
+  {
+    "id": 3099,
+    "label": "Produtos de Software Embarcados",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Produtos de Software Embarcados",
+    "description": "Esse setor inclui entidades que produzem software (ou \"firmware\") para máquinas ou dispositivos que geralmente não são considerados computadores, ex: roteadores, geladeiras, sistemas de exibição, máquinas de lavar, etc. como software para a Internet das coisas, mas"
+  },
+  {
+    "id": 3100,
+    "label": "Produtos de Software de Computação Móvel",
+    "hierarchy": "Tecnologia, Informação e Mídia > Tecnologia, Informação e Internet > Desenvolvimento de Software > Produtos de Software de Computação Móvel",
+    "description": "Esse setor inclui entidades que produzem software que é executado em dispositivos de computação móvel, como smartphones e computadores de tablets."
+  },
+  {
+    "id": 116,
+    "label": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento",
+    "description": "Esse setor inclui entidades que armazenam e armazenam bens, transportam passageiros e cargas, fornecem transporte cênico e turístico e fornecem atividades de suporte relacionadas aos modos de transporte."
+  },
+  {
+    "id": 94,
+    "label": "Companhias Aéreas e Aviação",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Companhias Aéreas e Aviação",
+    "description": "Esse setor inclui entidades que fornecem transporte aéreo de passageiros e/ou carga usando aeronaves, como aviões e helicópteros."
+  },
+  {
+    "id": 87,
+    "label": "Transporte de Frete e Pacotes",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte de Frete e Pacotes",
+    "description": "Esse setor inclui entidades que fornecem principalmente uma variedade de serviços de transporte para frete, pacotes e correio."
+  },
+  {
+    "id": 1495,
+    "label": "Transporte Terrestre de Passageiros",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros",
+    "description": "Esse setor inclui entidades que fornecem principalmente uma variedade de serviços de transporte de passageiros terrestres, como sistemas de trânsito urbano;"
+  },
+  {
+    "id": 1504,
+    "label": "Serviços de Ônibus Interurbanos e Rurais",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros > Serviços de Ônibus Interurbanos e Rurais",
+    "description": "Esse setor inclui entidades que fornecem principalmente transporte de passageiros de ônibus em rotas regulares e em horários regulares, principalmente fora de uma única área metropolitana."
+  },
+  {
+    "id": 1512,
+    "label": "Serviços de Ônibus Escolares e de Funcionários",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros > Serviços de Ônibus Escolares e de Funcionários",
+    "description": "Esse setor inclui entidades que fornecem principalmente ônibus e outros veículos a motor para transportar alunos de e para a escola ou funcionários de e para o trabalho."
+  },
+  {
+    "id": 1517,
+    "label": "Serviços de Ônibus e Transporte de Pessoas com Necessidades Especiais",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros > Serviços de Ônibus e Transporte de Pessoas com Necessidades Especiais",
+    "description": "Esse setor inclui entidades que fornecem principalmente transporte de transporte de trânsito e passageiros (exceto sistemas de trânsito urbano, transporte interurbano e de ônibus rural, serviços de táxi, transporte de ônibus escolares e funcionários, serviços de ônibus charter e serviços de limusine (exceto serviços de transporte), que estão em que estão em"
+  },
+  {
+    "id": 1532,
+    "label": "Transporte Turístico",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros > Transporte Turístico",
+    "description": "Essa indústria inclui entidades que usam principalmente equipamentos de transporte para fornecer recreação e entretenimento."
+  },
+  {
+    "id": 1505,
+    "label": "Serviços de Táxi e Limusine",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros > Serviços de Táxi e Limusine",
+    "description": "Esse setor inclui entidades que fornecem principalmente transporte de passageiros por automóveis ou van ou fornecendo uma variedade de serviços de transporte de passageiros especializados e de luxo por meio de limusine ou sedan de luxo em geral, e não opera em rotas regulares e em horários regulares."
+  },
+  {
+    "id": 1497,
+    "label": "Serviços de Trânsito Urbano",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Terrestre de Passageiros > Serviços de Trânsito Urbano",
+    "description": "Esse setor inclui entidades que operam principalmente sistemas de trânsito de passageiros locais e suburbanos em rotas regulares e em horários regulares em uma área metropolitana."
+  },
+  {
+    "id": 95,
+    "label": "Transporte Marítimo",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Marítimo",
+    "description": "Essa indústria inclui entidades que transportam passageiros e carga usando embarcações, como navios, barcaças e barcos."
+  },
+  {
+    "id": 1520,
+    "label": "Transporte por Dutos",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte por Dutos",
+    "description": "Essa indústria inclui entidades que usam principalmente oleodutos de transmissão para transportar produtos, como petróleo bruto, gás natural, produtos de petróleo refinados e pasta, que podem incluir o armazenamento de gás natural."
+  },
+  {
+    "id": 1573,
+    "label": "Serviços Postais",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Serviços Postais",
+    "description": "Esse setor inclui entidades governamentais que fornecem serviços de correio sob uma obrigação de serviço universal, incluindo o transporte de cartas, matéria impressa ou pacotes por correio, incluindo aceitação, coleta, processamento e entrega."
+  },
+  {
+    "id": 1481,
+    "label": "Transporte Ferroviário",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte Ferroviário",
+    "description": "Esta indústria inclui entidades que fornecem principalmente transporte ferroviário de passageiros e/ou carga usando estoque de rolagem ferroviária que opera em redes, com instalações físicas, força de trabalho e equipamentos espalhados por uma extensa área geográfica ou opera a uma curta distância em um trilho local"
+  },
+  {
+    "id": 92,
+    "label": "Transporte de Caminhão",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Transporte de Caminhão",
+    "description": "Esse setor inclui entidades que fornecem transporte de carga exagerada usando veículos a motor, como caminhões e reboques de trator."
+  },
+  {
+    "id": 93,
+    "label": "Armazenamento e Estocagem",
+    "hierarchy": "Transporte, Logística, Cadeia de Suprimentos e Armazenamento > Armazenamento e Estocagem",
+    "description": "Esse setor inclui entidades que operam instalações de armazém e armazenamento para mercadorias em geral, produtos refrigerados e outros produtos de armazém."
+  },
+  {
+    "id": 59,
+    "label": "Sistemas Utilitários",
+    "hierarchy": "Sistemas Utilitários",
+    "description": "Esta indústria inclui entidades que fornecem energia elétrica, gás natural, suprimento de vapor, abastecimento de água e remoção de esgoto."
+  },
+  {
+    "id": 383,
+    "label": "Geração de Energia Elétrica",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica",
+    "description": "Este setor inclui entidades que operam instalações de Energia Elétrica > elétrica."
+  },
+  {
+    "id": 385,
+    "label": "Geração de energia elétrica de Combustível Fóssil",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Elétrica de Combustível Fóssil",
+    "description": "Esse setor inclui entidades que operam instalações de Geração de Energia Elétrica movida a combustível fóssil."
+  },
+  {
+    "id": 386,
+    "label": "Geração de Energia Elétrica Nuclear",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Elétrica Nuclear",
+    "description": "Este setor inclui entidades que operam instalações de Geração de Energia Elétrica Nuclear."
+  },
+  {
+    "id": 3240,
+    "label": "Geração de Energia Renovável",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Renovável",
+    "description": "Esse setor inclui entidades que operam instalações de Geração de Energia Elétrica que usam recursos energéticos renováveis."
+  },
+  {
+    "id": 390,
+    "label": "Geração de Energia Elétrica de Biomassa",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Renovável > Geração de Energia Elétrica de Biomassa",
+    "description": "Este setor inclui entidades que operam instalações de Geração de Energia Elétrica de biomassa."
+  },
+  {
+    "id": 389,
+    "label": "Geração de Energia Elétrica Geotérmica",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Renovável > Geração de Energia Elétrica Geotérmica",
+    "description": "Este setor inclui entidades que operam instalações geotérmicas de Geração de Energia Elétrica."
+  },
+  {
+    "id": 384,
+    "label": "Geração de Energia Hidrelétrica",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Renovável > Geração de Energia Hidrelétrica",
+    "description": "Esse setor inclui entidades que operam instalações de geração de energia hidrelétrica."
+  },
+  {
+    "id": 387,
+    "label": "Geração de Energia Elétrica Solar",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Renovável > Geração de Energia Elétrica Solar",
+    "description": "Este setor inclui entidades que operam instalações de Geração de Energia Elétrica solar."
+  },
+  {
+    "id": 2489,
+    "label": "Geração de Energia Elétrica Eólica",
+    "hierarchy": "Sistemas Utilitários > Geração de Energia Elétrica > Geração de Energia Renovável > Geração de Energia Elétrica Eólica",
+    "description": "Essa indústria inclui entidades que operam instalações de Geração de Energia Elétrica eólica para acionar turbinas e produzir energia elétrica para sistemas de transmissão de energia elétrica ou para sistemas de distribuição de energia elétrica."
+  },
+  {
+    "id": 382,
+    "label": "Transmissão, Controle e Distribuição de Energia Elétrica",
+    "hierarchy": "Sistemas Utilitários > Transmissão, Controle e Distribuição de Energia Elétrica",
+    "description": "Este setor inclui entidades que operam sistemas de transmissão de energia elétrica;"
+  },
+  {
+    "id": 397,
+    "label": "Distribuição de Gás Natural",
+    "hierarchy": "Sistemas Utilitários > Distribuição de Gás Natural",
+    "description": "Este setor inclui entidades que: 1. Opere sistemas de distribuição de gás (por exemplo, rede elétrica, metros);"
+  },
+  {
+    "id": 398,
+    "label": "Serviços de Água, Resíduos, Vapor e Ar Condicionado",
+    "hierarchy": "Sistemas Utilitários > Serviços de Água, Resíduos, Vapor e Ar Condicionado",
+    "description": "Este setor inclui entidades que: 1. Opere estações de tratamento de água e/ou sistemas de abastecimento de água;"
+  },
+  {
+    "id": 404,
+    "label": "Fornecimento de Vapor e Ar Condicionado",
+    "hierarchy": "Sistemas Utilitários > Serviços de Água, Resíduos, Vapor e Ar Condicionado > Fornecimento de Vapor e Ar Condicionado",
+    "description": "Esta indústria inclui entidades que fornecem vapor, ar aquecido ou ar resfriado."
+  },
+  {
+    "id": 1981,
+    "label": "Coleta de Resíduos",
+    "hierarchy": "Sistemas Utilitários > Serviços de Água, Resíduos, Vapor e Ar Condicionado > Coleta de Resíduos",
+    "description": "Essa indústria inclui entidades que coletam e/ou transportam resíduos perigosos, resíduos não perigosos e/ou materiais recicláveis em uma área local e/ou operando estações de transferência de resíduos perigosas ou não perigosas e podem ser responsáveis pela identificação, tratamento, embalagem e rotulagem de"
+  },
+  {
+    "id": 1986,
+    "label": "Tratamento e Descarte de Resíduos",
+    "hierarchy": "Sistemas Utilitários > Serviços de Água, Resíduos, Vapor e Ar Condicionado > Tratamento e Descarte de Resíduos",
+    "description": "Esta indústria inclui entidades que operam instalações de tratamento ou descarte de resíduos (exceto sistemas de esgoto ou instalações de tratamento de esgoto, que estão em uma indústria separada) ou oferecem a atividade combinada de coleta e/ou transportar resíduos em uma área local e operação de tratamento de resíduos ou"
+  },
+  {
+    "id": 400,
+    "label": "Sistemas de Abastecimento de Água e Irrigação",
+    "hierarchy": "Sistemas Utilitários > Serviços de Água, Resíduos, Vapor e Ar Condicionado > Sistemas de Abastecimento de Água e Irrigação",
+    "description": "Este setor inclui entidades que operam estações de tratamento e/ou sistemas de abastecimento de água."
+  },
+  {
+    "id": 133,
+    "label": "Atacado",
+    "hierarchy": "Atacado",
+    "description": "Esse setor inclui entidades que distribuem mercadorias por atacado, geralmente sem transformação, e prestam serviços incidentais à venda de mercadorias."
+  },
+  {
+    "id": 1267,
+    "label": "Atacado de Bebidas Alcoólicas",
+    "hierarchy": "Atacado > Atacado de Bebidas Alcoólicas",
+    "description": "Esta indústria inclui entidades que distribuem cerveja por atacado, cerveja, vinho e/ou bebidas alcoólicas destiladas."
+  },
+  {
+    "id": 1222,
+    "label": "Atacado de Roupas de Vestuário e Suprimentos de Costura",
+    "hierarchy": "Atacado > Atacado de Roupas de Vestuário e Suprimentos de Costura",
+    "description": "Este setor inclui entidades que distribuem bens de peça por atacado, noções e outros bens secos;"
+  },
+  {
+    "id": 1171,
+    "label": "Atacado de Aparelhos de Elétrica e Eletrônica",
+    "hierarchy": "Atacado > Atacado de Aparelhos de Elétrica e Eletrônica",
+    "description": "Esta indústria inclui entidades que distribuem aparelhos e equipamentos elétricos por atacado, suprimentos de fiação e equipamentos relacionados;"
+  },
+  {
+    "id": 49,
+    "label": "Atacado de Materiais de Construção",
+    "hierarchy": "Atacado > Atacado de Materiais de Construção",
+    "description": "Essa indústria inclui entidades que distribuem materiais de construção por atacado, como madeira, compensado, millwork e painéis de madeira;"
+  },
+  {
+    "id": 1257,
+    "label": "Atacado de Produtos Químicos e Afins",
+    "hierarchy": "Atacado > Atacado de Produtos Químicos e Afins",
+    "description": "Essa indústria inclui entidades que distribuem produtos químicos por atacado, materiais de plásticos e formas e formas básicas e produtos aliados."
+  },
+  {
+    "id": 1157,
+    "label": "Atacado de Equipamentos de Computador",
+    "hierarchy": "Atacado > Atacado de Equipamentos de Computador",
+    "description": "Este setor inclui entidades que distribuem computadores atacadistas e equipamentos de informática."
+  },
+  {
+    "id": 1221,
+    "label": "Atacado de Medicamentos e Produtos Diversos",
+    "hierarchy": "Atacado > Atacado de Medicamentos e Produtos Diversos",
+    "description": "Este setor inclui entidades que distribuem produtos biológicos e médicos por atacado;"
+  },
+  {
+    "id": 1231,
+    "label": "Atacado de Alimentos e Bebidas",
+    "hierarchy": "Atacado > Atacado de Alimentos e Bebidas",
+    "description": "Esta indústria inclui entidades que distribuem atacado: 1. Linha geral de compras;"
+  },
+  {
+    "id": 1230,
+    "label": "Atacado de Calçados",
+    "hierarchy": "Atacado > Atacado de Calçados",
+    "description": "Esta indústria inclui entidades que distribuem calçados por atacado (incluindo calçados atléticos), borracha e outros materiais."
+  },
+  {
+    "id": 1137,
+    "label": "Atacado de Móveis e Artigos de Decoração",
+    "hierarchy": "Atacado > Atacado de Móveis e Artigos de Decoração",
+    "description": "Essa indústria inclui entidades que distribuem móveis por atacado (exceto camas de hospital, móveis médicos e mesas de desenho), móveis para casa e/ou utensílios domésticos."
+  },
+  {
+    "id": 1178,
+    "label": "Atacado de Hardware, Encanamento e Equipamento de Aquecimento",
+    "hierarchy": "Atacado > Atacado de Hardware, Encanamento e Equipamento de Aquecimento",
+    "description": "Este setor inclui entidades que distribuem hardware por atacado;"
+  },
+  {
+    "id": 134,
+    "label": "Atacado de Importação e Exportação",
+    "hierarchy": "Atacado > Atacado de Importação e Exportação",
+    "description": "Esse setor inclui entidades que facilitam o comércio de bens e mercadorias entre empresas nacionais e estrangeiras."
+  },
+  {
+    "id": 1208,
+    "label": "Atacado de Artigos de Luxo e Jóias",
+    "hierarchy": "Atacado > Atacado de Artigos de Luxo e Jóias",
+    "description": "Essa indústria inclui entidades que distribuem jóias por atacado, pedras preciosas e semipreciosas, metais preciosos e talheres de metal, jóias, relógios, relógios, talheres e/ou descobertas dos joalheiros."
+  },
+  {
+    "id": 1187,
+    "label": "Atacado de Maquinário",
+    "hierarchy": "Atacado > Atacado de Maquinário",
+    "description": "Esta indústria inclui entidades que distribuem construção de atacado, mineração, fazenda, jardim, establishment de serviços e máquinas de transporte, equipamentos e suprimentos."
+  },
+  {
+    "id": 1166,
+    "label": "Atacado de Metais e Minerais",
+    "hierarchy": "Atacado > Atacado de Metais e Minerais",
+    "description": "Essa indústria inclui entidades que se envolvem na distribuição por atacado do comerciante de produtos das indústrias de metais primários (incluindo centros de serviços de metal) e carvão, coque, minérios de metal e/ou minerais não metálicos (exceto pedras e minerais preciosos e semipreciosos usados na construção, como como"
+  },
+  {
+    "id": 1128,
+    "label": "Atacado de Veículos e Peças",
+    "hierarchy": "Atacado > Atacado de Veículos e Peças",
+    "description": "Esse setor inclui entidades que distribuem automóveis atacadistas e outros veículos a motor, suprimentos de veículos a motor, pneus e peças novas ou usadas."
+  },
+  {
+    "id": 1212,
+    "label": "Atacado de Produtos de Papel",
+    "hierarchy": "Atacado > Atacado de Produtos de Papel",
+    "description": "Esta indústria inclui entidades que distribuem o papel de impressão e redação em massa por atacado;"
+  },
+  {
+    "id": 1262,
+    "label": "Atacado de Petróleo e Produtos de Petróleo",
+    "hierarchy": "Atacado > Atacado de Petróleo e Produtos de Petróleo",
+    "description": "Esta indústria inclui entidades que distribuem produtos por atacado de petróleo e petróleo, incluindo gás de petróleo liquefeito."
+  },
+  {
+    "id": 1153,
+    "label": "Atacado de Equipamentos e Suprimentos de Fotografia",
+    "hierarchy": "Atacado > Atacado de Equipamentos e Suprimentos de Fotografia",
+    "description": "Este setor inclui entidades que distribuem equipamentos e suprimentos fotográficos por atacado (exceto equipamentos de escritório)."
+  },
+  {
+    "id": 1250,
+    "label": "Atacado de Produtos Agrícolas Brutos",
+    "hierarchy": "Atacado > Atacado de Produtos Agrícolas Brutos",
+    "description": "Esta indústria inclui entidades que distribuem produtos agrícolas por atacado (exceto leite cru, aves vivas e frutas e vegetais frescos, que estão em indústrias separadas), como grãos, feijões de campo, gado e outras matérias -primas de produtos agrícolas (excluindo sementes, que"
+  },
+  {
+    "id": 1206,
+    "label": "Atacado de Materiais Recicláveis",
+    "hierarchy": "Atacado > Atacado de Materiais Recicláveis",
+    "description": "Esta indústria inclui entidades que distribuem sucata automotiva por atacado, sucata industrial e outros materiais recicláveis."
+  }
+]

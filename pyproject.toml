@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "linkedin industry codes v2"
+version = "0.1.0"
+description = ""
+authors = ["Fernando Karchiloff <fernando@ferkarchiloff.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+selenium = "^4.20.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
